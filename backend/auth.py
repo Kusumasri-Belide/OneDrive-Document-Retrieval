@@ -78,7 +78,6 @@ def get_access_token() -> str:
     print("(This should only happen once - token will be cached for future use)")
     print("\n" + "="*60)
     
-<<<<<<< HEAD
     flow = app.initiate_device_flow(scopes=GRAPH_SCOPE)
     
     if "user_code" not in flow:
@@ -90,22 +89,13 @@ def get_access_token() -> str:
     
     # Wait for user to authenticate
     result = app.acquire_token_by_device_flow(flow)
-=======
-    # Only do interactive login if no cached token is available
-    print("Authenticating with Microsoft Graph (this should only happen once)...")
-    result = app.acquire_token_interactive(scopes=GRAPH_SCOPE)
->>>>>>> 8d5ee6e1c299e7ec4faba52e139b3a328050d9b4
 
     if "access_token" not in result:
         raise RuntimeError(f"Failed to acquire token: {result.get('error_description', result)}")
 
     _cached_token = result["access_token"]
-<<<<<<< HEAD
     print("\n✓ Authentication successful - token cached for subsequent requests")
     _save_token_cache()  # Save the new token to disk
-=======
-    print("Authentication successful - token cached for subsequent requests")
->>>>>>> 8d5ee6e1c299e7ec4faba52e139b3a328050d9b4
     return _cached_token
 
 def clear_token_cache():

@@ -390,12 +390,8 @@ def _get_folder_id(folder_path: str) -> str:
     
     if resp.status_code == 200:
         folder_id = resp.json().get('id')
-        print(f"✓ Found folder ID: {folder_id}")
+        print(f" Found folder ID: {folder_id}")
         return folder_id
     else:
-        print(f"✗ Folder not found: {folder_path}")
-<<<<<<< HEAD
+        print(f" Folder not found: {folder_path}")
         return None
-=======
-        return None
->>>>>>> 8d5ee6e1c299e7ec4faba52e139b3a328050d9b4
