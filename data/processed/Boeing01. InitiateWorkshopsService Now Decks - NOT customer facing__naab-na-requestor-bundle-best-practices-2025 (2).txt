@@ -1,0 +1,1155 @@
+
+--- Page 1 ---
+Now Assist Requestor Bundle
+Best Practices
+Accelerate your Requestor journey with proven best practices
+Version: September 2025
+Latest Release: Zurich Patch 1/ Yokohama Patch 6
+Send your feedback to naaccelerationbundlefeedback@servicenow.com
+
+--- Page 2 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+2
+Notice
+✦
+Audience
+•
+Intended for approved ServiceNow partners and internal implementation specialists 
+•
+Not intended for customer-facing use
+✦
+Important Notes
+•
+Provides implementation guidance, insights, and best practices based on early adopter experiences with recently 
+released Now Assist capabilities
+•
+Includes access to unsupported Catalyst tools in the Innovation Lab to help accelerate implementations, for use at your 
+discretion
+•
+Intended to complement, not replace, official ServiceNow documentation
+✦
+Version Snapshot (as of September 2025)
+•
+Includes select updates from Zurich Patch 1 and Yokohama Patch 6
+•
+Excludes content on Agentic AI, which is covered in the AI Practitioner Bundle Best Practices
+•
+Feedback is encouraged to improve future iterations
+
+--- Page 3 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+3
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+3
+Overview
+✦
+This document is designed to speed up and streamline the foundational understanding, implementation, deployment, and 
+adoption of the out-of-box (OOB) Now Assist capabilities for the requestor persona, covering the following platform 
+capabilities:
+▪
+Now Assist in AI Search
+▪
+Now Assist in Virtual Agent
+✦
+It provides a collection of requestor persona-based best practices, along with guidance through Acceleration Bundles to 
+simplify the process. 
+• General Best Practices for the Requestor Persona:
+Implementing Now Assist requestor capabilities requires an in-depth understanding of the skills before starting the 
+implementation process. This can be achieved by getting familiar with common implementation best practices and 
+troubleshooting guidance – which can be leveraged systematically, as linked below:
+▪
+Best Practices for Understanding the Requestor Persona
+▪
+Best Practices for Implementing Conversational Catalog in VA
+▪
+Troubleshooting Guidance for the Now Assist Requestor Capabilities
+▪
+Requestor Architectural Considerations
+• Acceleration Bundles covering the Requestor Persona:
+Both requestor persona-based acceleration bundles listed below provide in-depth implementation guidance covering 
+Instance Readiness Assessment, Plugin Installation, Now Assist Implementation, User Adoption, and Customer Feedback 
+areas as well as detailed tips and best practices for each capability:
+▪
+Now Assist in AI Search Acceleration Bundle
+▪
+Now Assist in Virtual Agent Acceleration Bundle
+
+--- Page 4 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+4
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+4
+Release Highlights
+✦
+This document highlights the Sep '25 release features available (GA) in the Zurich release for the Requestor persona
+✦
+Notes: 
+▪The AI Search and Virtual Agent skill bundles (linked on the prior slide) detail the features in the n and n-1 store 
+updates. Stay updated on the latest available store updates and release upgrades, as capabilities are rapidly 
+evolving with significant improvements in each release.
+▪Please refer to the AI Practitioner Bundle Best Practices for AI Agent and Now Assist Skill Kit guidance.
+
+--- Page 5 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+5
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+5
+General Best Practices for the Requestor Persona 
+For an end user, a bad experience may be the last one, so strive to get it right from Day 1! 
+✦
+This section is designed to provide a comprehensive guide for implementing Now Assist for the Requestor persona, with the 
+goal of facilitating self-service for end users requesting assistance. 
+✦
+Here are key considerations and best practices to follow when developing and implementing Requestor use cases with 
+Now Assist in AI Search and Now Assist in Virtual Agent: 
+▪
+Tip 1: Understand the Requestor’s context and how different capabilities within the platform interact together 
+▪
+Tip 2: Gain an understanding of the requestor assessment process before starting the implementation journey
+▪
+Tip 3: Understand the use case identification and analysis process, including data collection and capability mapping 
+steps
+▪
+Tip 4: Follow a Requestor use case design approach -- focusing on customer interviews, solution determination, and 
+technical requirements
+▪
+Tip 5: Review and follow VA topic development best practices, including leveraging search for knowledge base 
+articles, clarifying auto-populated fields, considering live agent transfer, and more 
+▪
+Tip 6: Review and follow Now Assist Search tips and best practices in this section and in the Now Assist in AI Search 
+Acceleration Bundle
+✦Watch the Requestor bundle guidance demo to get started with the Now Assist Requestor persona journey!
+
+--- Page 6 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+6
+AI Search & VA inputs
+Requestor inputs
+Knowledge 
+base
+Service 
+Catalog
+VA Topics
+VA Interactions
+(Live Agent & Self-Service)
+AI Search Queries
+Other ticket creation
+(Phone, Mail, Portal)
+Catalog Requests
+Tip 1: Understand the Requestor Context 
+• These serve as the different entry points 
+for end-user inquiries, which must be 
+analyzed to identify opportunities.
+• The requestor-facing applications, focusing on AI 
+Search and Virtual Agent, rely on content from 
+the Knowledge Base, Service Catalog, and the 
+implemented VA Topics (both LLM and NLU-
+based).
+• An assessment is needed to evaluate the 
+maturity of these processes and identify 
+potential gaps with the requested use cases.
+
+--- Page 7 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+7
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+7
+Tip 2: Understand the Requestor Assessment process
+✦
+The Now Assist Requestor persona's assessment process involves:
+•
+Leveraging what is already available in the platform prior to beginning the implementation journey:
+▪
+Understanding the current state of the Knowledge base to identify opportunities for improvement that enhance the 
+search experience, referring to the relevant sections within the Now Assist - Data Readiness Checklist.
+▪
+Understanding the current state of the Service Catalog is key to understanding conversational improvement 
+opportunities. Refer to the relevant sections within the Now Assist - Data Readiness Checklist.
+▪
+Assessing the most requested intents based on historical data using tools like Automation Discovery
+▪
+Automate tasks by enabling AI Agents in Now Assist Virtual Agent to increase the productivity of live agents
+▪
+Assessing the current state of self-service, particularly when VA is live, to identify VA topics to be migrated to Now Assist 
+to benefit from LLM-powered capabilities
+•
+Review Now Assist Requestor Discovery & Analysis for insights, tips, and tools to support the assessment!  
+•
+Access the acceleration bundles below for instructions on performing an Instance Readiness Assessment and guidance 
+to fast-track your Now Assist Requestor implementations!
+▪
+Now Assist in AI Search Acceleration Bundle
+▪
+Now Assist in Virtual Agent Acceleration Bundle
+
+--- Page 8 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+8
+Areas to analyze
+• Any defined process KPIs
+• Volume data in the Conversational 
+Analytics dashboard
+• Knowledge Base content
+• Service Catalog content
+• Virtual Agent topics
+• Semantic clustering analysis from 
+Automation Discovery
+Expected outputs
+• List of use cases requested by end users
+• Relevant data points to help identify the 
+most impactful use cases
+• List of pain points derived from analysis of 
+KPIs
+• Gaps in knowledge or service catalog 
+content
+Inputs
+• Relevant data points from Step 1
+• List of use cases and potential content 
+gaps from Step 1
+• For each use case, identify a few data 
+points (e.g. user wait time, agent time 
+spent, etc.)
+• Customer interviews
+• Meet with the customer to align on the use 
+cases identified and take their feedback
+Expected outputs
+• List of use cases and their aggregated 
+data points
+• Priority defined for each use case
+• Success criteria for each use case
+Inputs
+• List of prioritized use cases from Step 2
+Expected outputs
+• Problem statement and associated solution 
+proposal, with a list of user stories, for each 
+prioritized use case
+Step 1: 
+Data Collection & Analysis
+Step 2: 
+Use Case Identification & Analysis
+Step 3: 
+Capability Mapping & Recommendation
+Tip 3: Understand the Use Case Assessment process
+
+--- Page 9 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+9
+Conduct customer 
+interviews
+• Meet with customer 
+L1 support teams to 
+understand common 
+issues and resolutions 
+• Check for top issues 
+from incidents using 
+Automation 
+Discovery tool
+Determine the right 
+solution
+• Pick the optimal 
+solution between VA 
+Topic, AI Agents, KB 
+or catalog via search 
+as options
+Review existing 
+content in instance
+• Review and simplify 
+Service Catalog
+• Review and clean up 
+Knowledge base 
+content
+• Review existing user 
+criteria to ensure 
+needed content is 
+available to end 
+users
+• Existing VA customers 
+should review live VA 
+topics and plan to 
+migrate self-solve 
+topics using NLU to 
+LLM Migration 
+feature available 
+OOB in VA designer
+Create use case 
+design diagrams prior 
+to development work 
+to confirm designs
+• Leverage tools like 
+Visio, Miro board etc. 
+to Iterate the use 
+casedesign  with 
+customer 
+stakeholders in 
+review meetings and 
+email
+• Finalize use case 
+designs prior to 
+beginning 
+implementation work
+List technical 
+requirements to 
+include
+• Plugins requirement 
+• Configuration 
+changes, 
+• Any additional 
+workarounds or 
+solutions needed.
+Document 
+Acceptance criteria
+• Purpose and scope 
+of work
+• Requirements listing
+• Approvals listing as 
+needed
+• Sign-off criteria 
+documented
+Note: Refer to Now Assist Requestor Discovery & Analysis for more insights
+Tip 4: Know the Requestor Use Case Design Approach 
+for Implementors
+
+--- Page 10 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+10
+Example Use Case Analysis - Password Reset
+✦Large impact on the Service Desk through the 
+usage of interactions
+✦MTTR suggests high-end user impact - unable 
+to work for half a day
+✦Reassignment rate indicates potential 
+improvement in assignment rule/complex 
+process
+Analysis
+Automation Potential: TBD
+Technical Complexity: TBD
+Searches
+1,100 (0.5%)
+Incidents
+3,150 (1.7%)
+Interactions
+17,870 
+(13.3%)
+MTTR: 4 hours
+First Contact Resolution: 60%
+Data Collected
+
+--- Page 11 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+11
+✦
+When addressing a troubleshooting topic, request the relevant knowledge base articles or the specific troubleshooting 
+steps to resolve the issue. 
+✦
+If a record (such as an incident record) needs to be created, ask about any default values for the fields that need to be 
+filled in, especially mandatory fields. For instance, ask for the category, sub-category, assignment group, and channel. 
+✦
+If specific fields are intended to be auto-populated, seek clarification on the logic behind them so that you can add them 
+to that within the topic.
+✦
+Some customers implement assignment rules to auto-populate the assignment group field. Ask for their relevance regarding 
+the topic.
+✦
+Ask If the customer would like to include live agent transfer in the topic and implement it accordingly.
+✦
+Provide a detailed, thoroughly tested description for each topic to ensure accurate discovery within the Virtual Agent.
+✦
+Avoid having multiple active topics which are intended to address the same issue.
+✦
+Review and be aware of known issues and solutions provided in the Requestor-related bundles.
+✦
+Finally, closely review tips and resources provided in the Now Assist in Virtual Agent Acceleration Bundle at every stage of 
+the implementation journey!
+Tip 5: Follow VA Topic Development best practices 
+
+--- Page 12 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+12
+✦
+Example utterances
+Customer stakeholders wanted to understand end-to-end 
+process, including topic discovery.
+✦
+Customer-specific technical requirements
+Make note of any customer-specific technical requirements 
+needed so that customer tech leads can confirm.
+✦
+Step-by-step instructions
+Customers prefer short, concise instructions to be given to 
+users within topic. Linking to KB articles should be 
+secondary.
+Example topic diagram
+
+--- Page 13 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+13
+Tip 6: Follow Now Assist Search best practices 
+✦
+Help the customer understand the technology (detailed on the next slide)
+✦
+AI Search is only as effective as the quality of the underlying information (Knowledge Base, Catalog). Ensure content is 
+consistently updated and accurate. 
+✦
+Leverage the Knowledge & Search Metrics tool and OOTB AI Search & Knowledge dashboards to gain readiness insights
+✦
+Use clear titles, concise summaries, and relevant keywords in the KB articles and catalog items. Organize information in a 
+logical format to make it easier for AI Search to deliver accurate results.
+✦
+Review and be aware of known issues and solutions provided in the Requestor-related bundles.
+✦
+Finally, closely review the tips and resources provided in the Now Assist in AI Search Acceleration Bundle at every stage of 
+implementation journey!
+
+--- Page 14 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+14
+How Now Assist Search works
+✦
+Help the customer understand the technology (In-depth architecture can be found here)
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Vestibulum quam dui,
+pellentesque non dapibus nec, hendrerit
+in ex. Aliquam erat volutpat. Phasellus
+tincidunt
+feugiat
+ornare.
+Etiam
+eget
+vehicula
+lacus,
+vel
+cursus
+massa.
+Suspendisse mattis turpis nulla, sit amet
+scelerisque velit feugiat in. Ut sed leo
+feugiat, iaculis elit quis, suscipit tortor.
+Vestibulum condimentum mollis sodales.
+Sed rhoncus, est suscipit varius fringilla,
+metus lectus pharetra orci, nec ultricies
+quam ipsum vel eros. Curabitur mattis
+fringillagravida.
+»
+»
+?
+Query Embedding
+Generated Answer
+KB
+Vector DB
+Embedding
+Document chunk(s)
+LLM
+Generate answer
+Identify similar vector
+RAG: Retrieval Augmented Generation
+
+--- Page 15 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+15
+Best Practices for Now Assist Conversational Catalog 
+Implementation in Virtual Agent
+✦
+This section is designed to provide a comprehensive guide for implementing the Now Assist Conversational Catalog in 
+Virtual Agent, which helps to increase self-service and reduce operating costs.
+✦
+It covers essential tips and best practices to enhance the user experience and streamline the service catalog management 
+process within Now Assist Virtual Agent. 
+✦
+This section covers different areas such as:
+▪
+Tip 1: Understand Service Catalog basics, including variables, types, channels, and validations, to achieve an optimal 
+conversational experience in VA
+▪
+Tip 2: Use Catalog Builder to create and manage the catalog, and harness Now Assist’s Refine feature
+▪
+Tip 3: Understand the platform components that power the Conversational experience 
+▪
+Tip 4: Follow Catalog Item best practices
+▪
+Tip 5:  Leverage the Conversational Coverage Dashboard to gain insights into conversational catalog coverage and 
+identify areas of improvement
+▪
+Tip 6: Inspect the catalog UI Policies carefully to help convert the catalog to conversational
+▪
+Tip 7: Use Conversational Label for question rephrasing
+
+--- Page 16 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+16
+01
+Question Types
+•
+Attachment
+•
+Checkbox
+•
+Custom
+•
+Custom with Label
+•
+Date
+•
+Date/Time
+•
+Duration
+•
+Email
+•
+Group of checkbox
+•
+HTML
+•
+IP Address
+•
+List collector
+•
+Lookup Multiple 
+Choice
+•
+Lookup Select Box
+•
+Masked
+•
+Multi Line Text
+•
+Multiple Choice
+•
+Numeric Scale
+•
+Reference
+•
+Requested For
+•
+Select Box
+•
+Single Line Text
+•
+Table Variable
+•
+UI Page
+•
+URL
+•
+Wide Single Line 
+Text
+•
+Yes/No
+02
+Validation & Dynamic Behavior
+•
+Mandatory
+•
+Read-only
+•
+Hidden
+•
+Validation (Regex)
+•
+UI Policy
+•
+Client Scripts
+•
+Data Lookup
+•
+Auto-populate*
+Tip 1: Understand the Service Catalog basic elements
+to elevate the conversational experience
+
+--- Page 17 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+17
+Tip 1: Understand the Service Catalog basic elements 
+to elevate the conversational experience
+03
+Types of Catalog Items
+•
+Catalog Item
+•
+Content Item
+•
+Record Producer
+•
+Composite Record 
+Producer
+•
+Order Guide
+•
+Catalog Wizard
+04
+Additional Features
+•
+Variable Set
+•
+Cart Experience
+•
+Save for Later
+•
+Pricing
+05
+Channels
+•
+UI16
+•
+Service Portal
+•
+Mobile
+•
+VA
+•
+Workspace
+•
+API
+
+--- Page 18 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+18
+Tip 2a: Leverage Catalog Builder to build the 
+catalog using Now Assist
+•
+Leverage Now Assist to build the Service 
+Catalog and enhance the conversational 
+aspect of newly created catalog content
+•
+Refer to ServiceNow documentation and 
+this video to know more about Now Assist 
+in Catalog Builder 
+
+--- Page 19 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+19
+Tip 2b: Use the Refine Content skill in Catalog Builder for a 
+better conversational experience 
+•
+The Refine feature in Catalog Builder,  
+available for fields like Short Description and 
+Description, helps improve the conversational 
+experience by making the item more 
+discoverable
+Note: The Refine Content skill available for Now Assist 
+for Creator must be enabled to be used within the 
+Catalog Builder.
+•
+Refer to this ServiceNow documentation to 
+know more about the Now Assist Creator's 
+refine skill and how it can be applied within the  
+Catalog Builder application. 
+
+--- Page 20 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+20
+Tip 2c: Use the Refine Content skill in Catalog Builder for 
+Questions and Labels
+•
+The Refine Content skill in Now Assist for 
+Creator can be used within Catalog Builder 
+for Questions and Labels to improve the 
+values of these variables, which will improve 
+the item's understandability when 
+requested conversationally in Virtual Agent. 
+Note: The Refine Content skill available for Now 
+Assist for Creator must be enabled to be used 
+within the Catalog Builder.
+•
+Refer to this ServiceNow documentation to 
+know more about the Now Assist Creator's 
+refine skill and how it can be applied within 
+the Catalog Builder application.
+
+--- Page 21 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+21
+Tip 3a: Understand the platform components in the 
+Conversational experience
+Glide
+GAIC / LLMs
+AI Search
+VA Platform
+Service Catalog
+Conversational Catalog
+•
+The "sys_generative_ai_log" table (maint-only) 
+offers valuable insights into the NowLLM's 
+operation.
+•
+Scrutinize the ”Prompt” and "Response" fields .
+
+--- Page 22 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+22
+Tip 3b: Understand Conversational Catalog basics
+•
+Leverage Generative AI 
+capabilities to provide a human-
+like and efficient catalog request 
+experience over a conversational 
+interface like ServiceNow Virtual 
+Agent web experience, Microsoft 
+Teams, or Slack.
+
+--- Page 23 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+23
+Tip 4: Follow the Catalog Item best practices
+1.
+Limit Variables: Keep the number of variables 
+(including variable sets) minimal.
+2.
+Disable Conversational Mode: Use the "Make non-
+conversational in VA" option for form-based 
+requests.
+3.
+Provide Clear Context: Use distinct names, labels, 
+and tooltips to help NowLLM understand item 
+context.
+4.
+Stick to out-of-the-box Variable Types: Use 
+standard variable types like Multiple Choice, 
+Select Box, and Single Line Text.
+5.
+Minimize Scripting: Limit client-side scripting and 
+use "Validation Regex" for validation.
+6.
+Avoid Complex Dependencies: Simplify variable 
+relationships to ensure a smooth conversation 
+flow.
+7.
+Test & Iterate: Test items in the conversational 
+interface and improve based on feedback.
+•
+Below are some pointers to keep in mind when creating a catalog item to have the catalog as conversational. Refer to 
+this Community link which provides guidance around converting Catalog Items to Conversational.
+
+--- Page 24 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+24
+Tip 5: Leverage Conversational coverage dashboard
+a
+Resources:
+▪
+ServiceNow DOCs: Catalog Conversational Coverage
+▪
+Community article: Now Assist Conversational Catalog: Guidance around converting Catalog Items to Conversational
+▪
+Now Assist VA Bundle: Now Assist in Virtual Agent Acceleration Bundle 
+ 
+ 
+(Note:  Refer to the detailed coverage around Conversational Catalog in the Instance Assessment and Implementation sections)
+Use Conversational Catalog Overview 
+dashboard to analyze the current Service 
+Catalog - not all Catalog Items are good 
+candidates for a conversational experience
+✓Focus on the top used catalog item
+✓Identify the reason for Catalog Items not 
+being conversational 
+✓Explore suggestions for making items 
+conversational
+
+--- Page 25 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+25
+Tip 6: Inspect catalog UI Policies carefully 
+✓Avoid Using OnLoad() for UI Policy Changes to 
+modify question attributes (e.g., mandatory, visible, 
+or read-only).
+▪
+Solution: Set the attributes directly on the 
+questions to ensure efficient and reliable 
+behaviour.
+✓Avoid OnLoad() Conditions for Uninitialized 
+Variables. For example: If a variable doesn’t have 
+a default value and a condition tests its value at 
+load time, the condition won’t trigger.
+▪
+Solution: Uncheck the “OnLoad” box for such 
+conditions and initialize variables properly 
+before checking them.
+Now Assist Conversational Catalog: Guidance around converting Catalog Items to Conversational
+Community article: 
+
+--- Page 26 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+26
+Tip 7: Use Conversational Label for question rephrasing
+•
+LLM-generated rephrasing of questions may not always be suitable for all questions 
+•
+Use the "Conversational Label" field to let VA know how to phrase this question to the user
+
+--- Page 27 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+27
+•
+Detailed steps to reproduce
+•
+User/persona experiencing the issue
+•
+Location of the issue
+•
+Issue observed in portal or assistant?
+•
+Expected behavior
+•
+Specific KB/Catalog Item/Topic expected in the response
+•
+Expected outcome (sysIDs or KBs)
+•
+Imminent customer deadlines
+Common Issues with Requestor Capabilities
+Typical Areas Where Issues Arise
+Key Details to Capture for Issue Reporting
+•
+Lack of understanding of existing capabilities 
+•
+Configuration-related issues
+•
+Query results lacking sufficient or relevant content 
+•
+Customer-specific customization issues
+•
+Legitimate product issues
+This section provides best practices for capturing, reporting, and resolving Now Assist Requestor-related 
+issues, along with initial troubleshooting steps.
+
+--- Page 28 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+28
+28
+Troubleshooting and Debugging Tips for Requestor 
+Skill Issues
+✦
+Below are links to ServiceNow Community, documentation, and Now Support KBs to assist with troubleshooting Now Assist 
+Requestor skill issues:
+•
+AI Search Tuning - Making AI Search Analytics Actionable (Community article)
+•
+KB1702609: Getting the Best Answers from Now Assist in AI Search
+•
+KB1699553: Search result is missing or wrong in AI Search (SN Internal)
+✦
+ServiceNow Internal Links:
+•
+Debugging Now Assist Requestor Logs
+•
+KB1947466: Troubleshooting Tips for Now Assist Synthesized Search 
+    (Support Case may be needed for a few tips listed if MAINT access is needed)
+✦
+Additional known issues and resolutions related to Now Assist can be found in the next slide
+
+--- Page 29 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+29
+29
+Common Requestor Issues & Solutions
+The articles listed below contain frequently 
+encountered issues and their solutions for the 
+Requestor persona’s skills:
+✦
+KB1966622 
+▪
+Now Assist in AI Search
+▪
+Now Assist Q&A
+✦
+KB1966168
+▪
+Now Assist in VA: Core
+▪
+Now Assist in VA: Conversational Catalog
+▪
+Now Assist in VA: Search issues specific to VA
+
+--- Page 30 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+30
+Requestor Architectural Considerations
+Awareness of the technical architecture and flow diagram for Search and Virtual Agent capabilities encompassing 
+the Requestor persona is helpful for troubleshooting and understanding the behavior and functioning of the skills.
+The next few slides provide an overview of the following: 
+❑Search Configuration Overview
+❑Search RAG (Retrieval-Augmented Generation) flow powered by Now LLM
+❑Search Query/Utterance processing in the portal
+❑High-level architecture of Virtual Agent query/utterance flow
+
+--- Page 31 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+31
+Now Assist Search Configuration Overview
+Indexed 
+Source
+Application
+Index tables to 
+make their 
+content 
+searchable
+Search Source
+Limit the content 
+users can search
+Search Profile
+Stores the search 
+experience 
+settings
+Search 
+Application
+Specify search 
+engine for Now 
+platform 
+application
+Knowledge 
+Base
+External 
+Content
+Service 
+Catalog
+HR KB
+HR SC
+Employee 
+Center Profile
+Employee 
+Portal 
+Search
+VA 
+Employee 
+Portal
+Now 
+Mobile
+Portal
+Virtual 
+Agent
+IT SC
+KB = Knowledge Base 
+SC = Service Catalog
+Relevancy 
+Model
+Service Portal 
+Profile
+Relevancy 
+Model
+The different elements involved in identifying the content returned to a search query. 
+
+--- Page 32 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+32
+Disclaimer:
+Rapidly 
+changing 
+architecture
+Now Assist Search RAG (Retrieval-Augmented Generation) flow 
+powered by Now LLM
+Augmented Generation
+Data Store
+Retrieval
+Chunking
+User 
+Query
+Query 
+Rewrite
+Embedding 
+Model
+Hybrid Search
+Combined 
+Response 
+Virtual 
+Agent/Catalog/
+KB
+Relevancy 
+Reranker
+Semantic
+Keyword
+Now LLM
+Data Sources 
+(Vectorized)
+
+--- Page 33 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+33
+Now Assist Search Query/Utterance processing in portal 
+User Query/
+Utterance
+Hybrid – 
+Keyword 
+and 
+Semantic 
+Search
+Top 10 KBs
+LLM Based 
+ReRanker
+Now LLM 
+Service
+-
+Question 
+Answering
+Answer 
+(Q&A)
+Hybrid – 
+Keyword 
+and 
+Semantic 
+Search
+Keyword 
+Search
+Top 5 KBs
+Search 
+Results
+Actions 
+Top 10 
+Cat Items
+LLM Based 
+ReRanker
+Top 10 
+Cat Items 
+Now LLM 
+Service
+-
+Filtering
+Now Assist
+KBs
+Cat Item
+Disclaimer:
+Rapidly 
+changing 
+architecture
+Now Assist in AI Search Portal – Nov ‘24
+
+--- Page 34 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+34
+High-level architecture of Virtual Agent Query/Utterance flow
+Now Assist in Virtual Agent – March'25
+User 
+Utterance
+Hybrid – 
+Keyword and 
+Semantic 
+Search
+Top 10 
+KBs
+LLM Based 
+ReRanker
+Now LLM Service
+-
+Synthesized Response
+Hybrid – 
+Keyword and 
+Semantic 
+Search
+Keyword 
+Search
+Search Results
+Top 10 
+Cat 
+Items
+Top 10 
+Topics
+LLM Based 
+ReRanker
+Now Assist
+KBs
+Cat Item
+& Topic
+Chat History
+Query 
+Rewrite
+Answer?
+Synthesized 
+Response
+Yes
+No
+Fallback 
+Response
+Click or Type?
+Click
+Now LLM 
+Service
+Slot Filling
+Type
+Matches Skill?
+Yes
+No
+Disclaimer:
+Rapidly 
+changing 
+architecture
+
+--- Page 35 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+35
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+35
+Latest Release Updates
+✦
+Benefit from the latest and greatest ServiceNow has to offer
+It isn’t news to anyone reading this that AI innovation is happening rapidly. Therefore, it is highly recommended that the latest 
+versions of the Now Platform be implemented and deployed to take advantage of the latest advancements.
+These improvements not only unlock new AI capabilities but also improve previously released AI capabilities and the 
+supporting (behind-the-scenes) functionality that aids with, among other things, configuration, monitoring, and maintainability.
+✦
+New workflow/product-specific updates
+The links below highlight the major feature enhancements for ITSM, CSM, and HRSD workflows related to Now Assist, many of 
+which are persona-related: 
+•
+Now Assist for IT Service Management (ITSM) release notes
+•
+Now Assist for Customer Service Management (CSM) release notes
+•
+Now Assist for HR Service Delivery (HRSD) release notes
+✦
+Check out the latest available Now Assist agentic workflows by product
+ServiceNow’s Now Assist AI Agents, introduced in the Yokohama and Zurich release, mark a significant advancement in 
+enterprise automation. With each ServiceNow family and store release, new or enhanced agentic solutions may be included 
+within each product that encompass different Now Assist personas, like Fulfiller, Requestor, and AI Practitioner. Therefore, it is 
+recommended to review these latest Now Assist Agentic Workflows regularly to avail yourself of such capabilities to the fullest!
+
+--- Page 36 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+36
+Sep'25 (Q3)/Zurich Patch 1 or Yokohama Patch 6 Highlights
+Now Assist Requestor Experience 
+Sep ‘25 Release features (Zurich Patch 1/ Yokohama P6)
+Now Assist feature enhancements
+• Now Assist Panel enhanced dynamic chat for an enhanced and fluid chat experience
+• Now Assist multi model provider flexibility for Now Assist skills and AI agents allows configuring other model providers (Now LLM Service, Azure 
+OpenAI, Google Gemini, or Anthropic Claude on AWS) at the instance, skill, or skill group level 
+Now Assist in Virtual Agent features
+• View agentic conversations processing steps in NAVA, and can end the flow anytime
+• View suggested queries (frequently asked queries) in the portal's search bar and enhanced chat VA
+• View extended entities and records, such as assets, incidents, etc., associated with the Knowledge Graph Natural Language Query (NLQ) 
+schema
+• Configure the AI Search Answers OneExtend capability for web search
+• Integrate Now Assist in Virtual Agent with Microsoft Copilot using custom engine agent (CEA)
+Refer to the Acceleration Bundle and Now Assist in Virtual Agent Zurich Release Notes for detailed information on new features and changes 
+Now Assist in AI Search features
+• Improve search recall and accuracy with semantic vector indexing of Catalog Items’ short descriptions
+• Prompt users to log into SharePoint Online to access shared files in Knowledge Graph citations in Now Assist Multi-Content in Q&A Genius Result 
+answers.
+Refer to the Acceleration Bundle and Now Assist in AI Search Zurich Release Notes for detailed information on new features and changes 
+
+--- Page 37 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+37
+May '25 (Q1)/Yokohama Patch 3 Highlights
+Now Assist Requestor Experience 
+May ‘25 Release features (Yokohama Patch 3)
+New Now Assist in Virtual Agent features
+• Enhanced Chat
+• Suggested Actions
+• Upload documents in Now Assist Virtual Agent to extract relevant data from the file
+• Web search custom skill in Now Assist Virtual Agent
+• Managing AI Agents and agentic workflows in Virtual Agent Designer
+• Leverage Knowledge Graph pre-built integration with Virtual Agent
+New Now Assist in AI Search features
+• Synthesized Genius Results in search page
+• New External Connectors
+
+--- Page 38 ---
+© 2025 ServiceNow, Inc. All Rights Reserved. Confidential.
+38
+March '25 (Q1)/Yokohama Highlights
+Now Assist Requestor Experience 
+March ‘25 Release features (Yokohama)
+New Now Assist in Virtual Agent features
+• Improved topic discovery, disambiguation, model options (GPT-4o)
+• Create custom conversational sub-flows and actions
+• Improved OOTB ITSM VA LLM topic coverage
+New Now Assist in AI Search features
+• New indexed connector for Q&A for external sources (SharePoint, Confluence)
+• Incident deflection powered by Now Assist
+• Low-code admin UI for external content

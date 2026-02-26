@@ -1,0 +1,216 @@
+GSEP / EHD Alignment  - Draft Capability Roadmap
+This is trying to show different elements specific to EHD across the entire AI landscape. 
+2025
+Future
+AI Guided Incident Creation
+Proactive Communication
+Full Rollout & 
+OCM
+Ask Boeing Live Agent Handoff
+Ask Boeing
+Now Assist 
+Communication Recommendations
+AI Based Incident
+Triage / Routing
+Now Assist 
+Resolution
+Now Assist 
+Summarization
+AI Agent for Incident Triage (POC) 
+Now
+Assist
+Agent Workspace Retirement
+Adoption of 
+Now Assist Skills
+Appointment
+Scheduling
+SOW Baseline
+Config
+Service Operations  Workspace
+Automated Knowledge Block Management
+Persona focused
+Tagging 
+Now Assist KB authoring support
+Knowledge
+Management
+AI Search KB Meta Data tuning
+AI Search Implementation
+Platform Analytics
+EHD Dashboard
+Platform Analytics
+Enablement
+AI enabled  
+Trend Analytics
+AI Recommendation
+Analytics
+ Analytics
+Completed
+In Work
+Proposed 
+1
+Roadmap – Draft 
+Very initial roadmap.  Based in part on Gartner AI material.  
+Phase 2-4 are Notional. Will be based updated based on Alignment and Advisory Discussions 
+2
+Phase One - Ask Boeing Growth
+Details of Phase 1
+Ask Boeing Current State
+Ask Boeing will be End User facing Conversational Interface
+75%+ of use to date is through MS Teams
+End User IT Knowledge in Production
+HR Knowledge is in work
+Ask Boeing Growth enabled through SN
+Work to “Tune” AskBoeing Responses
+Exposing more meta data for KB and Catalog 
+Personalization of responses through user attributes
+Expand to Major Incident Use Cases
+“Are there any open MIM”
+“How many MIM’s were there last month / yesterday / last week”
+Is there a MIM impacting BCA / 787 / St. Louis / Charleston / F-18 
+3
+Phase One– Ask Boeing Integration
+Details of Phase 1
+Ask Boeing Integration
+Build Bot to Bot integration
+For “Actions” fulfilled through SN, expose through Virtual Agent / Now Assist integration
+Leverage Native SN functionality and business logic as much as possible
+Ask Boeing Integration Use Cases
+RITM Approvals
+Notifications in Moveworks 
+Summary of Approvals
+Approval Button
+Live Agent Integration and Handoff 
+Live agent through Moveworks UI / Teams
+Live agent summary for handoff
+4
+Phase One – Now Assist ITSM 
+Details of Phase 1
+Now Assist ITSM deployment
+Enable the foundation for Now Assist within GSEP
+Fulfiller focused Use Cases
+Now Assist Use Cases
+Now Assist Configuration
+Foundational Setup
+Now Assist Global Panel
+Now Assist Virtual Agent integration
+Now Assist CI Summarization
+Server
+Business Application
+Now Assist ITSM record summarization
+Incident
+Change
+5
+Ask Boeing Roadmap
+AskBoeing Notional roadmap from 3Q 2025.  I do not have a more recent version of this
+6
+ServiceNow AI/Hyper-Automation Maturity Journey
+Stage 4
+Hyper-Automation
+AI Maturity Journey is a Business-driven ServiceNow recommended AI adoption pathfor incremental value creation across all workflows and all AI capabilities of ServiceNow. 
+Achieve Operational Excellence/Intelligence
+Performance tracking
+Integrate Service & Operations management 
+Auto-resolve major issues
+Roadmap provided by ServiceNow Impact team as part of AI readiness Assessment
+Stage 3
+Automation
+Stage 2
+Generative AI
+Scale Automation
+Automate/Optimize mundane operations including 3rd party workflows
+AI capabilities for enhancing productivity across workflows
+Stage 1
+AI Inception
+Stage 0
+Foundation
+Move from conversation to resolution
+Automate knowledge management
+Integrate AI with  automation capabilities
+Self-solve/serve
+Accelerate workflows with Introduction to AI
+Boost productivity
+Standardized knowledge management 
+Prescribed usage of ServiceNow workflows
+Prescribed data volume and quality
+Automation Center
+AI Ops: Health Log analytics
+AI Ops: Metric Intelligence
+Skills Intelligence
+AI Search 
+Now Assist for Search
+Predictive AI Ops
+Document Intelligence
+Virtual Agent
+Now Assist for Agent
+Predictive Intelligence
+Portal (Emp Ctr or Svc Prtl)
+*Not in Vancouver GA, but in Innovation Lab Release
+Issue Auto Resolution*
+Now Assist for Flow
+Process Mining
+Knowledge Management 
+Task Intelligence
+Now Assist for Creator
+Workforce Optimization
+Workspaces
+Automation Discovery
+Generative AI Controller
+Personas benefitted
+Employee/Customer
+Agent
+Process Owner/Admin
+Developer/Product Manager
+Multiple personas
+RPA Hub
+Process Automation Designer
+UX & Performance Analytics
+Multi-lingual NLU & NLQ
+and Dynamic Translation
+Flow Designer, App Engine
+You may choose to fast track Now Assist to realize the quick-start GenAI capabilities.
+This readiness assessment may help you to decide.
+Integration Hub
+Automated Test Framework
+*Issue Auto Resolution
+VA with either ITSM or HR and KB/Catalog
+Ask Boeing and GSEP Integration Architecture
+Phased Architecture Roadmap
+ServiceNow
+Ask Boeing (Moveworks)
+Other Boeing Systems
+SN Data
+KB
+INC, RITM, 
+Cat Item 
+User
+AI Search
+Moveworks indexed Data
+Data
+Catalog Items
+Now Assist
+Moveworks Plugin’s
+ITSM Now Assist Skills
+Virtual Agent
+LLM
+CMDB Now Assist Skills
+LLM
+Ask Boeing
+Custom Agents
+SN Live Agent
+BCAI
+Agent Integration
+SN Virtual Agent API
+Chat
+Fulfiller Channels
+End User Channels
+LLM
+Workspace
+Classic UI
+Now Assist
+My Boeing
+Teams
+GSEP Portal
+POC Evaluation
+In Development
+In Production
+8

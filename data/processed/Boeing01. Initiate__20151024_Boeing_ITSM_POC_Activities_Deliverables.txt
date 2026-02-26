@@ -1,0 +1,233 @@
+
+--- Sheet: Project Plans  (2) ---
+Option 1			Week #	1	2	3	4	5	6	7	8	9			
+			Date 	2025-10-27 00:00:00	2025-11-03 00:00:00	2025-11-10 00:00:00	2025-11-17 00:00:00	2025-11-24 00:00:00	2025-12-01 00:00:00	2025-12-08 00:00:00	2025-12-15 00:00:00	2025-12-22 00:00:00			
+			Initiate 												
+			Plan 												
+			Execute												
+			Deliver 												
+			Close												
+B. Final Plan Post Workshops			Week #	1	2	3	4	5	6	7	8		9	10	11
+			Start Date 	2025-10-27 00:00:00	2025-11-03 00:00:00	2025-11-10 00:00:00	2025-11-17 00:00:00	2025-11-24 00:00:00	2025-12-01 00:00:00	2025-12-08 00:00:00	2025-12-15 00:00:00	2025-12-22 00:00:00	2025-12-29 00:00:00	2026-01-05 00:00:00	2026-01-12 00:00:00
+			Initiate 												
+			Plan 												
+			Execute												
+			Deliver 												
+			Close												
+
+--- Sheet: Tasks and Estimates ---
+	Phase	Start Week	End Week	Task	Description	Assumption	Hide Row from SOW	Practice	Presales Notes (Internal)	Billable/ Non-Billable	Role 1	Role 2	Role 3	Role 4	Role 5	Role 6	Role 7	Role 8	Role 9	Role 10	Role 11	Role 12	Role 13	Role 14	Role 15	
+Roles	Intentionally left blank.	Intentionally left blank.	Intentionally left blank.	Intentionally left blank.	Intentionally left blank.	Intentionally left blank.	Intentionally left blank.	Intentionally left blank.	Intentionally left blank.	Roles	Project Manager-PMO	Solution Architect-Technology	Business Process Consultant-Technology	Senior Technical Consultant-Technology	Workflow/Practice Strategist-Technology	-	-	-	-	-	-	-	-	-	-	
+	Initiate	1	1	Initiate Oversight & Calculated Hours	The calculated hours in the Initiate cover the project setup, onboarding of resources. It also covers an internal team kick-off, setting up the base project plan and conducting a formal project initiation with the customer to review goals, objectives, scope and other engagement information.					Billable	10	2	2	0	2	0	0	0	0	0	0	0	0	0	0	16
+Plan	Plan	2	2	Now Assist Agentic AI Workshop						Billable		4	4		4											12
+	Plan	2	2	Use Case Development		Time based, implementation is limited to up to 3 use cases				Billable		4	4		4											12
+	Plan	2	2	Story Development and Review						Billable		5	10													15
+	Plan	2	2	Business Process Map Workshop (Use-Case Based)		Limited to the single use case identified from Use Case Dev above				Billable			4		4											8
+	Plan	2	2	Now Assist Agentic AI Accelerator Pack						Billable																0
+	Plan	2	2	Boeing AI Roadmap Maturation Workshops	Review and update existing customer AI roadmap, including integration recommendations for 3rd party systems (moveworks for example)					Billable		8	8		10											26
+	Plan	2	2	Value Realization Dashboard Workshop	Value realization dashboard use case development in support of AI Roadmap					Billable		4	4		8											16
+	Plan	2	2	Integrations Evaluation and Recommendations Workshop	Review of existing Boeing 3rd party systems, such as Moveworks, and develop integration recommendations					Billable		4	4		4											12
+	Plan	2	2	AI Governance Memo	Governance framework memo for AI	deliverable				Billable		2	2		2											6
+	Plan	2	2	Plan Oversight & Calculated Hours	This covers any oversight necessary during the plan phase to coordinate meetings, schedule workshops, updating project plan, etc. In addition for the PM it covers the finalization of the Project Plan.					Billable	10	0	0	0	2	0	0	0	0	0	0	0	0	0	0	12
+	Plan	2	2	Workshop for Testing and Test Plan Document Creation					Remove this if the Testing package is not being sold	Billable															0	0
+Execute	Execute	3	6	Now Assist Implementation - up to 3 use cases	Portal to include enhanced widgets, layout and functionality as determined during the design phase. Standard out of the box pages / functionality will be implemented for anything that was not enhanced during the design phase.	Limited to ITSM based on 50 licenses purchased for POC, halftime TC - 3 sprints				Billable				120												120
+	Execute	3	6	Use Case Documentation 	Business Case, ROI documentation creation					Billable			40													40
+	Execute	3	6	Configuration Runbook Creation	Creation of configurations document to capture existin Now Assist config changes and NR AI Agent product configurations					Billable		4		4												8
+	Execute	3	6	Execute Oversight & Calculated Hours	This covers the hours for the BA and/or SA to do the sprint demos, unit testing. Then for the PM it covers the oversight to manage the project during the Execute phase.					Billable	40	32	32	0	8	0	0	0	0	0	0	0	0	0	0	112
+	Deliver	7	7	Training Preparation	Review training scope and the final content to be included in training based on the Deploy stage configurations.				Leave to 2 hours unless large engagement then increase to 4.	Billable																0
+	Deliver	7	7	Create Training Materials	Up to 1 Quick Reference Guide included - Now Assist ITSM	• Training Materials will be limited to 1 Quick Reference Guide (QRG)
+• Training Materials will be in English and any other languages will be done by the Client			Adjust based on notes in Description:
+
+QRGs are correctly scoped unless the customer has a specific template they want to use. Add two hours. Alternative is to list the QRG as 8 to 10 hours for 3 to 4 pages of content.
+The PPT presentation is per application. Depending on the application, PPTs may take between 12 and 16 hours to complete.
+The Full Guide option should say 16 hours per application. Example: Incident Management Training Guide = 16 hours, Incident and Change Management = 32 hours, a full ITSM suite = 48 hours. 
+Will need to add Video Demonstrations. Each video demonstration will be between 2 minutes and 8 minutes in length and cover individual topics. One hour should be allotted for every 5 minutes of video demo created.	Billable																0
+	Deliver	7	7	Training Sessions	Perform Now Assist ITSm training for end-users.  	• Trainings will be limited to 2 training sessions for each module (6 total hours)
+• Trainings will be done via Train the Trainer Method
+• Training will be done remotely
+• Training will be provided in English			Adjust based on notes in Description:
+
+PER APPLICATION:
+Onsite training up to 4 hours per application.
+Remote training up to 3 hours per application.	Billable																0
+	Deliver	7	7	Deliver Oversight and UAT Support	The calculated hours in the Deliver phase cover the updating of user stories to reflect high-lvel test steps to validate functionality. This also covers demoing of the functionaliy to Client testers ahead of UAT, and supporting the UAT as a whole. In addition this includes the time it takes to migrate to UAT, creating a rollout plan, migrate to Production, as well as updating configuration documentation.					Billable	10	8	4	20	2	0	0	0	0	0	0	0	0	0	0	44
+	Close	8	8	Close Oversight & Calculated Hours	The calculated hours in the Close phase cover the post-live support in a part-time capacity unless stated otherwise. It also covers a technical knowledge transfer session with the customer, a closeout meeting and the sending of the CSAT survey and updating of the deployment record.					Billable	10	2	2	10	2	0	0	0	0	0	0	0	0	0	0	26
+Minimums	Initiate	1	1	Calculated Padding for minimums			Yes	Padding		Billable	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	Plan	2	2	Calculated Padding for minimums			Yes	Padding		Billable		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	Execute	3	6	Calculated Padding for minimums			Yes	Padding		Billable		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	Deliver	7	7	Calculated Padding for minimums			Yes	Padding		Billable		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	Close	8	8	Calculated Padding for minimums			Yes	Padding		Billable	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	Roles and Skills						OPTIONAL - Add Oversight																			
+Roles and skills	Role #	Role + Practice	Resource Location	Practice	Skill #1	Skill #2	Skill #3	Role	Initiate %	Initiate Hours	Plan %	Plan Hours	Execute %	Execute Hours	Deliver %	Deliver Hours	Close %	Close Hours								
+	Role 1	Project Manager-PMO	USA	PMO				Project Manager		#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 2	Solution Architect-Technology	USA	Technology	AI Now Assist ITSM			Solution Architect		#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 3	Business Process Consultant-Technology	USA	Technology	AI Now Assist ITSM			Business Process Consultant		#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 4	Senior Technical Consultant-Technology	India	Technology	AI Now Assist ITSM			Senior Technical Consultant		#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 5	Workflow/Practice Strategist-Technology	USA	Technology	AI Now Assist ITSM			Workflow/Practice Strategist		#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 6	-								#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 7	-								#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 8	-								#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 9	-								#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 10	-								#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 11	-								#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 12	-								#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 13	-								#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 14	-								#REF!		#REF!		#REF!		#REF!		#REF!								
+	Role 15	-								#REF!		#REF!		#REF!		#REF!		#REF!								
+Scope & Assumptions	List Project Assumptions Here:																									
+	List Out of Scope Here:																									
+Deliverables/Artifacts	Deliverable/ Artifact	Description			In Scope?																					
+	Project Kick Off	NewRocket Kickoff PowerPoint			YES																					
+	Status Reports	Weekly reports, which may include some, or all, of the following:			YES																					
+	User Stories 	All requirements collected throughout the Workshops documented in the Client’s Service Now instance. Describes in detail the customization needed to meet each requirement. 			YES																					
+	Unit Test Steps	Test steps prepared for each of the specifications and configurations in their respective story.			YES																					
+	Configuration/Design Approach Document	End state documentation with all of the configuration completed by NewRocket			YES																					
+	Rollout Plan	Step-by-step run book of go-live events			YES																					
+	Training Materials	Quick Reference guides (QRG) for [modules] to support users post go-live			YES																					
+Milestones	Milestone #	Trigger	%	Price																						
+	Milestone 0		0.25	31250																						
+	Milestone 1		0.25	31250																						
+	Milestone 2		0.4	50000																						
+	Milestone 3		0.1	12500																						
+	Milestone 4			0																						
+	Milestone 5			0																						
+	Milestone 6			0																						
+	Milestone 7			0																						
+	Milestone 8			0																						
+	Milestone 9			0																						
+	Milestone 10			0																						
+	Milestone 11			0																						
+	Milestone 12			0																						
+	Milestone 13			0																						
+	Milestone 14			0																						
+	Milestone 15			0																						
+	Milestone 16			0																						
+	Milestone 17			0																						
+	Milestone 18			0																						
+	Milestone 19			0																						
+	Milestone 20			0																						
+	Milestone 21			0																						
+	Milestone 22			0																						
+	Milestone 23			0																						
+	Milestone 24			0																						
+	Milestone 25			0																						
+	Milestone 26			0																						
+	Milestone 27			0																						
+	Milestone 28			0																						
+	Milestone 29			0																						
+	Milestone 30			0	Total from Pricing Tool.  MUST MATCH																					
+	Total		1	125000	125000																					
+
+--- Sheet: Deliverables  ---
+1 - NowAssist ITSM POC 			
+Bundle 	Deliverable 	Description 	Estimated Week 
+1.1 Discovery & Design 	Project Workstream Kick-off Meeting 	One (1) PowerPoint, review of SOW and alignment of project goals and outcomes 	End of Week 2 
+	Now Assist ITSM Workshop 	One (1) PowerPoint 	
+	NewRocket Agentic Agent Workshop + NR Agents (Alara, Phoebe)	One (1) PowerPoint 	
+1.2 POC Build & Demo 	Now Assist ITSM Refinement 	Now Assist configured in designed non-production environment, one (1) use case 	End of Week 6 
+	NewRocket Agentic Agent Activation & Configuration 	NewRocket Agentic Agent configured in designed non-production environment, up to two (2) agents 	
+	NewRocket AI Value Realization Dashboard 	One (1) snapshot dashboard with up to three (3) use cases specific to the POC 	
+1.3 AI Strategy & Governance 	AI Roadmap 	One (1) AI roadmap 	End of Week 7 
+	AI Integration Recommendations 	One (1) Word (or agreed upon format) documenting integration recommendations with Boeing 3rd party systems 	
+	AI Governance Memo 	One (1) Word (or agreed upon format) AI Governance Memo document 	
+1.4 Final Handover & Closeout 	AI Configuration Runbook 	One (1) Word (or agreed upon format) documenting configuration updates and NewRocket product configuration 	End of Week 8 
+2 - Digital Product Release Advisory Services 			
+Bundle 	Deliverable 	Description 	Estimated Week 
+2.1 Discovery & Readout 	Project Workstream Kick-off Meeting 	One (1) PowerPoint, review of SOW and alignment of project goals and outcomes 	
+	Release Management Workshops & Readout 	One (1) PowerPoint 	
+2.2 OCM Strategy Package 	OCM Stakeholder Analysis and Impact Assessment 	One (1) PowerPoint (or agreed upon format) 	End of Week 4 
+	OCM Strategy 	One (1) Word (or agreed upon format)  	
+
+--- Sheet: Workshops ---
+Workshop 	Topics	Duration 	Date	Lead
+1	Now Assist for ITSM Skills; Use Cases; Value Realization Dashboard Overview;  Demo on Monitoring Assist Consumption; Boeing ITSM System features;  Discussion + Draft Stories (outcome) 	2 hours 	2025-11-07 00:00:00	Pankaj & Mylene
+2	Value Realization Dashboard Deep Dive 	1 hour 	2025-11-10 00:00:00	Anusha & Mylene 
+3	Demoing Phoebe and Elara (NR Agents); Stories refinement and sign off	1.5 hours 	2025-11-11 00:00:00	Anthony & Pankaj
+4	Boeing AI Roadmap Maturation; Integrations Evaluation and Recommendations 	1.5 hours 	2025-11-12 00:00:00	Anusha
+5	Overflow sessions and follow-ups (As needed) 			
+
+--- Sheet: Activities  ---
+	Phase	Start Week	End Week	Task							Description	Assumption	Role 1	Role 2	Role 3	Role 4	Role 5				
+Roles	Intentionally left blank.	Intentionally left blank.	Intentionally left blank.	Intentionally left blank.			# of hours 	Session 1	Session 2	Recommended Audience	Intentionally left blank.	Intentionally left blank.	Project Manager-PMO	Solution Architect-Technology	Business Process Consultant-Technology	Senior Technical Consultant-Technology	Workflow/Practice Strategist-Technology		# of Sessions	Session 1 	Session 2 
+	Initiate	1	1	Initiate Oversight & Calculated Hours							The calculated hours in the Initiate cover the project setup, onboarding of resources. It also covers an internal team kick-off, setting up the base project plan and conducting a formal project initiation with the customer to review goals, objectives, scope and other engagement information.		10	2	2	0	2				
+Plan	Plan	2	3	General 	1	Now Assist for ITSM Skills; Use Cases; Value Realization Dashboard;  Demo on Monitoring Assist Consumption; Boeing ITSM System features;  Discussion + Draft Stories (outcome) 	2 hours 	2025-11-07 00:00:00		ITSM Product Owner, ServiceNow Architect 				4	4		4				
+				Now Assist Agentic AI Workshop + Story Development and Review	2	Demoing Phoebe and Elara (NR Agents); Stories refinement and sign off	1.5 hours 	2025-11-11 00:00:00													
+	Plan	2	2	Use Case Development	3	Boeing AI Roadmap Maturation; Integrations Evaluation and Recommendations 	1.5 hours 	2025-11-12 00:00:00				Time based, implementation is limited to up to 3 use cases		4	4		4				
+	Plan	2	2	Story Creation  and Review										5	10						
+	Plan	2	2	Business Process Map Workshop (Use-Case Based)								Limited to the single use case identified from Use Case Dev above			4		4				
+	Plan	2	2	Boeing AI Roadmap Maturation Workshops							Review and update existing customer AI roadmap, including integration recommendations for 3rd party systems (moveworks for example)			8	8		10				
+	Plan	2	2	Value Realization Dashboard Workshop							Value realization dashboard use case development in support of AI Roadmap			4	4		8				
+	Plan	2	2	Integrations Evaluation and Recommendations Workshop							Review of existing Boeing 3rd party systems, such as Moveworks, and develop integration recommendations			4	4		4				
+	Plan	2	2	AI Governance Memo							Governance framework memo for AI	deliverable		2	2		2				
+	Plan	2	2	Plan Oversight & Calculated Hours							This covers any oversight necessary during the plan phase to coordinate meetings, schedule workshops, updating project plan, etc. In addition for the PM it covers the finalization of the Project Plan.		10	0	0	0	2				
+Execute	Execute	3	6	Now Assist Implementation - up to 3 use cases							Portal to include enhanced widgets, layout and functionality as determined during the design phase. Standard out of the box pages / functionality will be implemented for anything that was not enhanced during the design phase.	Limited to ITSM based on 50 licenses purchased for POC, halftime TC - 3 sprints				120					
+	Execute	3	6	Use Case Documentation 							Business Case, ROI documentation creation				40						
+	Execute	3	6	Configuration Runbook Creation							Creation of configurations document to capture existin Now Assist config changes and NR AI Agent product configurations			4		4					
+	Execute	3	6	Execute Oversight & Calculated Hours							This covers the hours for the BA and/or SA to do the sprint demos, unit testing. Then for the PM it covers the oversight to manage the project during the Execute phase.		40	32	32	0	8				
+	Deliver	7	7	Deliver Oversight and UAT Support							The calculated hours in the Deliver phase cover the updating of user stories to reflect high-lvel test steps to validate functionality. This also covers demoing of the functionaliy to Client testers ahead of UAT, and supporting the UAT as a whole. In addition this includes the time it takes to migrate to UAT, creating a rollout plan, migrate to Production, as well as updating configuration documentation.		10	8	4	20	2				
+	Close	8	8	Close Oversight & Calculated Hours							The calculated hours in the Close phase cover the post-live support in a part-time capacity unless stated otherwise. It also covers a technical knowledge transfer session with the customer, a closeout meeting and the sending of the CSAT survey and updating of the deployment record.		10	2	2	10	2				
+
+--- Sheet: Sheet3 ---
+					No.	Activity	Description 	Assumption 	Solution Architect 	Business Process Consultant 	Workflow/Practice Strategist 	
+		Plan	2	2	1	Now Assist Agentic AI Workshop			4	4	4	12
+		Plan	2	2	2	Use Case Development		Time based, implementation is limited to up to 3 use cases	4	4	4	12
+		Plan	2	2	3	Story Development and Review			5	10		15
+		Plan	2	2	4	Business Process Map Workshop (Use-Case Based)		Limited to the single use case identified from Use Case Dev above		4	4	8
+		Plan	2	2	5	Boeing AI Roadmap Maturation Workshops	Review and update existing customer AI roadmap, including integration recommendations for 3rd party systems (moveworks for example)		8	8	10	26
+		Plan	2	2	6	Value Realization Dashboard Workshop	Value realization dashboard use case development in support of AI Roadmap		4	4	8	16
+		Plan	2	2	7	Integrations Evaluation and Recommendations Workshop	Review of existing Boeing 3rd party systems, such as Moveworks, and develop integration recommendations		4	4	4	12
+		Plan	2	2	8	AI Governance Memo	Governance framework memo for AI	deliverable	2	2	2	6
+
+--- Sheet: Project Plans  ---
+1. Now Assist POC 															
+A. SOW			Week #	1	2	3	4	5	6	7	8	9			
+			Date 	2025-10-27 00:00:00	2025-11-03 00:00:00	2025-11-10 00:00:00	2025-11-17 00:00:00	2025-11-24 00:00:00	2025-12-01 00:00:00	2025-12-08 00:00:00	2025-12-15 00:00:00	2025-12-22 00:00:00			
+			Initiate 												
+			Plan 												
+			Execute												
+			Deliver 												
+			Close 												
+Option 1			Week #	1	2	3	4	5	6	7	8	9			
+			Date 	2025-10-27 00:00:00	2025-11-03 00:00:00	2025-11-10 00:00:00	2025-11-17 00:00:00	2025-11-24 00:00:00	2025-12-01 00:00:00	2025-12-08 00:00:00	2025-12-15 00:00:00	2025-12-22 00:00:00			
+			Initiate 												
+			Plan 												
+			Execute												
+			Deliver 												
+			Close												
+B. Final Plan Post Workshops			Week #	1	2	3	4	5	6	7	8		9	10	11
+			Start Date 	2025-10-27 00:00:00	2025-11-03 00:00:00	2025-11-10 00:00:00	2025-11-17 00:00:00	2025-11-24 00:00:00	2025-12-01 00:00:00	2025-12-08 00:00:00	2025-12-15 00:00:00	2025-12-22 00:00:00	2025-12-29 00:00:00	2026-01-05 00:00:00	2026-01-12 00:00:00
+			Initiate 												
+			Plan 												
+			Execute												
+			Deliver 												
+			Close												
+2. DPR Advisory Services															
+A. SOW			Week #	1	2	3	4	5	6	7					
+			Date 	2025-11-03 00:00:00	2025-11-10 00:00:00	2025-11-17 00:00:00	2025-11-24 00:00:00	2025-12-01 00:00:00	2025-12-08 00:00:00	2025-12-15 00:00:00					
+			Initiate 												
+			Plan 												
+			Close 												
+Option 1			Week #	1	2	3	4	5	6	7					
+			Date 	2025-10-27 00:00:00	2025-11-03 00:00:00	2025-11-10 00:00:00	2025-11-17 00:00:00	2025-11-24 00:00:00	2025-12-01 00:00:00	2025-12-08 00:00:00					
+			Initiate 												
+			Plan 												
+			Execute												
+			Deliver 												
+			Close												
+B. Final Plan Post Workshops			Week #	1	2	3	4	5	6	7					
+			Week Date 	2025-11-03 00:00:00	2025-11-10 00:00:00	2025-11-17 00:00:00	2025-11-24 00:00:00	2025-12-01 00:00:00	2025-12-08 00:00:00	2025-12-15 00:00:00					
+			Initiate 												
+			Plan 												
+			Close												
+
+--- Sheet: Scope Review ---
+Story #	Story Summary	Boeing Roadmap Alignment	SOW Fit	Risk Level	Success Criteria (POC Only)	NR Capabilities 
+7262098	Enable Now Assist Panel	Phase 1 – Foundational	✔ In Scope	Low	Panel accessible, OOB features only, no production rollout	
+7254011	Install Now Assist for ITSM	Phase 1 – Foundational	✔ In Scope	Low	Plugin installed in non-prod, features available to activate	
+7262101	Chat Summarization Skill	Phase 1 – Summarization	✔ In Scope	Medium	Summaries show in UI; accuracy not required; formatting minimal	
+7262103	Major Incident Summary	Phase 2 – MIM Comms / Proactive Ops	❌ Out of Scope	High	Demo-only summary; not matched to Boeing template; roadmap item	Adding fields to LookUP / MIM team's exact use case needed 
+7262104	Install Elara/Phoebe	Phase 1 – Authoring Support (Demo)	✔ In Scope (activation only)	Medium	Agents activated; OOB demo flows only; no Boeing-specific logic	
+7262114	Elara Structured KM Use Cases	Phase 3 – Automated KB Mgmt	❌ Out of Scope	High	Demo-only article draft; no metadata, no approvals, no templates	Meeting tomorrow (26/11) 
+7262116	Phoebe Incident Use Cases	Phase 3–4 – Triage, Routing, Auto-Resolution	❌ Out of Scope	Very High	Demo-only guidance; no state changes, no close automation; roadmap	Meeting tomorrow (26/11) 
+7262119	Now Assist Guardian	Phase 1 – Foundations	✔ In Scope	Low	Offensiveness + PI guardrails enabled; no enterprise policy validation	
+New Skill	Sentiment Analysis	Phase 2–3 – Analytics + Trend Analysis	❌ Out of Scope	High	Mock/demo value only; no ML accuracy; no workflow; roadmap	Level of customization required and can be done by project team; detailed steps are included in the stories 

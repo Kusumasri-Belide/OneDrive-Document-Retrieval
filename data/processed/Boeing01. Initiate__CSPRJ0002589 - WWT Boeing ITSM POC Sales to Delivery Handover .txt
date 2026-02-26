@@ -1,0 +1,43 @@
+SALES TO DELIVERY HANDOVER CHECKLIST Project Name WWT Boeing ITSM POC Client Boeing Opportunity # O - 26083 Account Executive Harry Tomczyk D365 Project ID DMND0003522 Project Manager Yitbarek Redda SN Project ID CSPRJ0002589
+PURPOSE
+The sales to delivery handover is to facilitate a seamless transition from sales to delivery. The Account Executive will gather the required information outlined in the checklist below upon execution of the Statement of Work, and once a Project Manager and Project Crew are assigned the Project Manager will schedule the handover meeting. The Account Executive will provide the completed checklist to the Project Manager at least three (3) days prior to the sales to delivery handover meeting.
+The Project Manager will facilitate the meeting, the agenda in section 3 is intended to guide the meeting. The meeting will typically include the Account Executive, Sales / Pre-Sales, Project Manager, and the Project Crew (key for the Solutions Architect to attend). 
+SALES TO DELIVERY HANDOVER CHECKLIST
+CHECK DESCRIPTION LINKS / REFERENCE / NOTES Client Stakeholders and Contact Information (include an org chart if available) Executed Contract (provide link) Pricing Details (Manticore, Rates, Hours, etc.) Special access requirements and resource restrictions (ex. FedRAMP) – if applicable/known Commitments made to the client
+(e.g., start and end dates, expectations, etc.) Notes and Documentation from Sales Cycle ServiceNow License Details If an existing client: What work was done before? Previous NR resources? Previous CSAT? Previous Lessons Learned? Are there other projects in flight with the client (PS or MS)? What other opportunities are being evaluated with the account? Is this a Minimal Viable Product solution. If so, detail long term strategy and if in scope. Duration of Sales Cycle and who was involved? Is the instance going to be on-premises or SaaS? Have the Solution Architect and/or Business Analyst been assigned yet? REQUIRED: List out Qualified Applications sold (i.e., ITSM Pro, ITSM Standard, etc.) List out Offerings/IP - Built on Now/Built with Now Share Gong recordings from sales cycle Was the NewRocket New Client Onboarding form completed during the Sales Cycle? If yes, provide a link to completed form. If no, provide client invoicing instructions and AP contact at a minimum. Managed Services Contracts Only Was the client with another managed services provider? Any customizations from the previous vendor? Client’s previous experience with other managed services vendors? Why are they joining NR? Does the client have an active backlog and has it been shared? Additional Notes:
+MEETING AGENDA
+Attendees: Date:
+Introductions
+Client Overview
+Client Business Description (business type, etc.):
+Key Implementation objectives:
+Time zones for client project participants
+Stakeholders/Key Players:
+Who are the supporters from this list?
+Who are the detractors from this list?
+Do they have a client PM designated yet?
+Client’s exposure to ServiceNow/level of experience? Available Training? Opinion/Perception of ServiceNow?
+What level of documentation will the client expect to have at the end of the project?
+Does the client already have ServiceNow? If so, what version are they one, how many ServiceNow environments are there, and what modules are they using?
+Sales Cycle
+Footprint (Departments that will use the solution sold):
+How mature is the client with regards to the solution sold (current state)? – can be addressed in the bullet above about client experience with ServiceNow
+How familiar is the client with the main delivery methodologies?
+SOW Discussion
+REQUIRED: List out Qualified Applications sold (i.e., ITSM Pro, ITSM Standard, etc.)
+What NewRocket Accelerators should be used internally for this project (i.e. CodeWorks, Catalog Item Accelerator, etc.)
+What customizations have been shown to the client (different from Out of Box)?
+Does the SOW include any NewRocket products (e.g., Orbit, CodeWorks)? If so, then what are they?
+Key assumptions and dependencies:
+Is travel expected, and if so, when will this be expected, to where and for what roles?
+Invoicing Instructions
+Is a PO required for invoicing?
+Does the client have a timecard portal for project time entries to be use?
+If yes, provide details and a client contact for set-up and training.
+Are there any specific invoicing requirements?
+Project Scheduling and Planning
+Has the client approved the use of global resources (geographic restrictions)?
+Is there a known go live date they are trying to hit?
+What is driving the go live date?
+Q/A
+Ask any additional questions that may have not been covered above.

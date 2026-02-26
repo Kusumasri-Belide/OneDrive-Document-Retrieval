@@ -1,0 +1,63 @@
+GSEP AI EcoSystem
+10/22/2025
+Current ServiceNow AI Context
+ServiceNow must be able to work in an AI EcoSystem
+AI Transactional costs must be considered and optimized
+Want to minimize duplication of business process logic outside ServiceNow
+Want to minimize duplication or possible violation of access controls
+Want to provide parity across user interfaces with respect to what can be done and the responses
+Transactions should run as the human user that is evoking the action to ensure native access controls are respected and the necessary audit trail is preserved.
+2
+Ask Boeing and GSEP Integration Architecture
+ServiceNow
+Ask Boeing (Moveworks)
+Other Boeing Systems
+SN Data
+KB
+INC, RITM, 
+Cat Item 
+User
+AI Search
+Moveworks indexed Data
+Data
+Catalog Items
+Now Assist
+Moveworks Plugin’s
+ITSM Now Assist Skills
+Virtual Agent
+LLM
+CMDB Now Assist Skills
+LLM
+Ask Boeing
+Custom Agents
+SN Live Agent
+BCAI
+Agent Integration
+SN Virtual Agent API
+Chat
+Fulfiller Channels
+End User Channels
+LLM
+Workspace
+Classic UI
+Now Assist
+My Boeing
+Teams
+GSEP Portal
+POC Evaluation
+In Development
+In Production
+3
+Integration Options to Review
+Rest API:
+Table API’s – OK for reading data, not good for transactions
+SN function specific API – ideal
+Boeing custom API – 2nd best choice
+Virtual Agent Bot Integration API:
+Need more info on when to use
+We are looking at this for AskBoeing  Live Agent handoff
+Webhooks:
+MCP:
+MCP Client – this is for consuming AI agents to consume external AI functionality
+MCP Server – Would be an alternate way to expose ServcieNow functionality to other tools.
+4

@@ -1,0 +1,94 @@
+
+--- Sheet: Flightpath Workshops ---
+Seq	Date Planned or Held	Title	Subject	Length	Agenda/Description	Led By	Audience
+1		Strategic Objectives Alignment	What is the strategic objective we are trying to achieve? 
+ - What are the 10,000 level challenges with the current landscape? 
+- What timeline does your improvement goals/ strategic vision map to?
+- Which teams will be impacted?
+- Business Goals (Alignment with KPI program) and Critical Successful Factors (Measuring Performance)		Strategic Objectives Alignment
+Updated Flightpath approach (Value- realization)	Kirk	Project Sponsors/ Leadership
+
+2		Day-In-The-Life (CMO): ITSM	See ITSM Workshops tab for detailed list	1 to 2 hours		Noah/ Anusha	Business and Technical
+
+2.x		Overflow sessions (ITSM)		1 hour working sessions			Business,  Technical as needed
+3		Day-In-The-Life (CMO): ITOM	refer to sheet ITOM Workshops for specific meetings			Shubh & Fawad	ITOM Leads, CMDB Owners, Platform Team
+
+3.x		Overflow sessions (ITOM)					Technical, Business as needed
+4		CMO: Technology landscape and architecture	Reefr to sheet 1 for specific meetings for ITOM			Fawad	Supporting Service for Business Processes; Technical 
+4.x		Overflow sessions (Technology)
+    					Supporting Service for Business Processes; Technical 
+5		FMO Interim: Roadmap 					Project Sponsor / Leadership
+6		FMO Final: Roadmap					Project Sponsor / Leadership
+
+--- Sheet: Stakeholders ---
+
+--- Sheet: ITOM Workshops ---
+	Meeting #	Subject	Agenda/Description	Status
+	Meeting 1	ITOM Discovery	Walkthrough of current ITOM discovery process.	Scheduled
+	Meeting 2	ITOM Monitoring & Event Management	•	Current Monitoring Landscape
+•Event Management Pain Points
+•	Desired Future State & Goals
+•Reporting Needs
+•	Desired Future State & Goals	
+	Meeting 3	Service Mapping	• Awareness of business services and dependencies
+• Existing CMDB relationships
+• Use of tagging, application groups, or runbooks
+• Potential use cases (e.g., RCA, impact analysis)	
+	Overflow session	CMDB: CI Inventory		
+
+--- Sheet: ITSM Workshops ---
+	Meeting #	Subject	Length	Agenda/Description	Stakeholders	Schedule	Status
+	Workshop 1	NowAssist For ITSM/ Value DB Overview, Discussions	2 Hr	Now Assist for ITSM Skills;
+Use Cases;
+Value Realization Dashboard; 
+Demo on Monitoring Assist Consumption;
+Boeing ITSM System features; 
+Discussion + Draft Stories (outcome) 	Incident: John Laumakis
+Change: Bharathi Arumugam
+IT Service Catalog: Meera Shashidar
+Knowledge: Heather Brammer
+Enterprise Help Desk/ Interactions: Angie Tobin
+Architects: Bryan Z., Richard McLean
+Platform: Brinda Rajan
+Additional SMEs: 
+Brittany Rompa
+Mayank Chaturvedi	11/7/2025 2:00PM - 4PM EST	On calendar
+	Workshop 2	Value Realization Dashboard: Requirements deep dive	1Hr	Deep dive into metrics on the Value Realization Dashboard for FMO	Architects: Bryan Z.
+Knowledge: Heather Brammer
+Incident:John Laumakis
+Change: Bharathi Arumugam
+EHD: Angie Tobin
+Additional SMEs: 
+Brittany Rompa
+Mayank Chaturvedi	Proposed: 
+Nov 10th 1:30PM - 3:30PM Eastern
+	
+	Workshop 3	NewRocket AI Agent working session: Elara and Phoebe	1.5 Hour	Review and Align Phoebe and Elara with Boeings use cases	Knowledge: Heather Brammer
+Incident: John Laumakis
+Enterprise Help Desk/ Interactions: Angie Tobin
+Incident: John Laumakis
+Additional SMEs: 
+Bryan Z.
+Brittany Rompa
+Mayank Chaturvedi	Proposed: 
+Nov 11th 1:30PM - 3:30PM Eastern
+	
+	Workshop 4	Additional Integration Evaluations for Roadmap	1 Hour	Identify and prioritize additional Integrations	Architect: Bryan Z.
+Platform Team: Brinda Rajan	Proposed: 
+Nov 12th 1:30PM - 3:30PM Eastern
+	
+	Workshop 5	Story refinement and sign off	1.5 Hour		Incident: John Laumakis
+Change: Bharathi Arumugam
+Knowledge: Heather Brammer
+Architects: Bryan Z., Richard McLean
+Platform: Brinda Rajan
+Additional SMEs: 
+Brittany Rompa
+Mayank Chaturvedi	Proposed: 
+Nov 13th 1:30PM - 3:30PM Eastern
+	
+	Workshop 6	Boeing AI maturation roadmap - Interim	1 Hour	Present, review and collect feedback on the AI Maturity roadmap	Bryan Z., Srini, Brinda
+Optional:  Mayank, Brittany 	Proposed: 
+Nov 18th 1:30PM - 3:30PM Eastern
+	
+	Workshop 7						

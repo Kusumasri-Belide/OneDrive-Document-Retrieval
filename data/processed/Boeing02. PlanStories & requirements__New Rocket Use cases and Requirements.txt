@@ -1,0 +1,68 @@
+New Rocket Now AssistPOC
+Byran Zigler
+10/30/2025
+GSEP AI Enabled Capabilities
+2
+Use Case 1 - Agent
+Use Agent to Manage Incidents.
+Assess incidents being created by AskBoeing and Through General Troubleshooting.
+Suggest KB Articles
+Determine most likely relevant KB
+Route to appropriate Assignment group
+[Mylène]Phoebe will attach the appropriate knowledge article to the incident and that should fill in the good info, including assignment group.
+Measures 
+Improved First Time routing of “General Tickets”
+#of tickets re-routed/ # of tickets routed 
+Improved Response to re-opened tickets
+Time from Resolved  In Progress to comment by agent is reduced.
+Automation savings  #of Automated closures
+3
+Use Case 1 - Agent
+Use Agent to Manage Incidents.
+Manage Re-Open Incidents
+Prompt for information on why they are re-opening Incident
+Route to appropriate Assignment group
+[Mylène] Phoebe should trigger on state change from Resolved  In progress
+[Mylène] Phoebe should analyze resolution notes, provide further details with KB
+[Mylène] Phoebe should ask more questions to the requestor through the additional comment in the incident
+[Mylène] Phoebe should open a new incident if the request seems to be something completely new, this should be supervised, and the requestor should agree to open a new incident, if they say no, ticket would be re-opened and 
+Measures 
+Improved First Time routing of “General Tickets”
+#of tickets re-routed/ # of tickets routed 
+Improved Response to re-opened tickets
+Time from Resolved  In Progress to comment by agent is reduced.
+Automation savings  #of Automated closures
+4
+Manage Request to close ticket from user
+Determine Closure reason
+Fill in closure notes.
+Helpdesk puts incident on hold and people self-resolve but the incident never gets out of hold
+Phoebe should scan the on-hold queue for any comment provided by requester and close incidents that have been self-resolved with the appropriate closure reason 
+Confirm with incident people, if an email or additional comments is received, does the state move back to in progress
+5
+Use Case 2 – Interaction & Incident Summary
+Use Now Assist to support Interaction Records
+Summarize Chat
+Provide Recommended Actions
+Create Incident
+Use Now Assist to support  Incident Records
+Summarize Incident
+Provide Recommended Actions
+Configure AI search in Service Operations Workspace to use content from “Agent_1” field. 
+Measures 
+Improved consistent response in chat
+Automation savings - # Incidents created using automation
+Usage – number of summarizations = Automation hours
+Recommended Actions success???
+Automation savings  # of KB articles selected from search.
+6
+Use Case 3 – Knowledge
+Use Knowledge Agent to Support Knowledge Gaps
+Identify Gaps in KB article
+Provide Recommended KB article topics
+Use Now Assist to recommend KB article Title, and Tags
+Measures 
+Automation - # of Article gaps identified
+Automation - # of KB article recommended
+Automation - # of KB titles, tags recommended
+7

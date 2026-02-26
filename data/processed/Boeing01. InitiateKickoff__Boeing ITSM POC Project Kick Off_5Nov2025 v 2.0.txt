@@ -1,0 +1,181 @@
+Boeing Now Assist POC
+Project Kickoff
+November 5, 2025
+Agenda
+Introductions
+Project Background 
+The Way We Work
+Risks
+Preliminary High-Level Project Timeline
+Outcomes & Success Criteria
+Next Steps
+Appendix
+Introduction
+Objective
+Desired Outcome
+Formally introduce the team and level set on all project information to date.
+Team is aligned on POC priorities and ready to start Workshops​.
+Introduction
+NewRocket Project Team
+Lisa Brown
+Harry Tomczyk
+Yitbarek (Yit) Redda
+Account Executive
+E: Harry.Tomczyk@newrocket.com
+Project Manager  
+E: Yitbarek.Redda@newrocket.com
+AVP, Decision Executive 
+E: Lisa.Brown@newrocket.com
+Anusha DasFedele
+Mylene Nadeau
+Pankaj S Yadav 
+Business Process Architect                             E: Mylene.Nadeau@newrocket.com 
+Practice Strategist 
+E: Anusha.DasFedele@newrocket.com 
+Solution Architect                                
+E: PankajS.Yadav@newrocket.com
+Ashish Kaushik 
+Anthony Evans
+Engineer/Technical Consultant 
+E: Ashish.Kaushik@newrocket.com
+AI SME & Consultant 
+E: Anthony.Evans@newrocket.com
+Introduction
+Boeing Stakeholders
+Name Title Role Srinivas Yerra Senior Manager Project Sponsor Bryan Zigler GSEP (ServiceNow) Platform Architect Key Stakeholder/ Project Manager Brittany Rompa User Experience/Functional Analysis Stakeholder/ OCM Brinda Rajan Manager – ServiceNow Platform team Stakeholder/ SME (Platform) Richard McLean Service Portal Architect Stakeholder/ SME (Service Portal) Mayank Chaturvedi Developer Stakeholder/ AI Developer Heather Brammer Process Owner – GSEP Knowledge Management Stakeholder/ SME (Knowledge)
+Project Background
+Planned Approach and Deliverables
+Boeing is seeking expert consultation for the review and optimization of the Now Assist for ITSM application, recommendations for integrating Now Assist with enterprise AI platform (Moveworks), and definition of an AI roadmap.
+This project is meant to operationalize a pre-production environment as a POC to evaluate its capabilities and overall business value to IT Service Management Processes.
+Now Assist Use Case Development Workshops. 
+Now Assist and NewRocket Agentic AI Product demonstrations 
+Proof of Concept Development and Unit Testing (non-production environment) 
+Artificial Intelligence (AI) Value Realization Dashboard
+Logistics & Collaboration
+Time Zones: Eastern Time (ET) will be the standard time zone for meetings
+Ideal slot: 9:00 AM ET to 2:00 PM ET
+Meetings: Microsoft Teams 
+Document Sharing: Dedicated Boeing SharePoint Space
+Communication Channel: Dedicated Boeing/NR Microsoft Teams private channel 
+The Way We Work
+Project Execution Methodology: Now Create
+Legend
+Pulse Check
+The Way We Work
+NewRocket Project Governance Structure
+Facilitates strong sponsorship across all levels of program management – Strategic, Operational, Execution
+Ongoing Communication and Escalation
+STRATEGIC
+Review/approve overall plan and provide strategic direction
+Program oversight, tracking, Contract Management/SOW/Change Control 
+Risk management, address escalated issues
+Relationship Management
+Review and propose transformations plans
+Reporting – Monthly, ad-hoc
+Executive Sponsor
+Program Manager
+Functional Leadership
+Risk
+Executive Sponsor
+Account Executive
+Program Manager
+Resolve
+OPERATIONAL
+Monitor team performance on agreed metrics
+Review program-level status reports
+Risks and issue management
+Knowledge management
+Communication management
+Resolve escalations
+Reporting – Weekly, ad-hoc
+Escalation
+Program/Project Manager
+Application Owners
+Functional SME’s
+Account Executive
+Program/Project Manager
+Enterprise Architect(s) 
+Risk
+Resolve
+Escalation
+Review project delivery
+Risk/issue management
+Review ongoing changes and impact
+Report business critical project status
+Escalate any issues to management 
+Change order requests/process
+Security/Architecture/Design/Approach/Implementation Reviews
+Reporting – Daily, ad-hoc
+EXECUTION
+Project Manager
+Functional SME
+IT Lead
+Project Manager
+Architect(s)
+Functional Leads
+Risk
+Resolve
+Communication, Synergy, Transparency and Reporting
+NewRocket Escalation Path
+Point of Contact Name/Role Email 1st Yit Redda – Project Manager Yitbarek.Redda@newrocket.com 2nd Harry Tomczyk – Account Executive Harry.Tomczyk@newrocket.com 3rd Lisa Brown – Decision Executive Lisa.Brown@newrocket.com 4th Michael Carter – Chief Revenue Officer Michael.Carter@newrocket.com
+The Way We Work
+Stakeholder Roles & Responsibilities
+As a key stakeholder your primary role is to act as a point of contact between your user community and the ServiceNow project, helping to ensure your community is represented and consulted throughout the project. The following are the top three items we ask:
+Share your business needs and listen to others
+Actively participate
+Be open and promote change
+We need participants to attend meetings, test the tool, evaluate the training material, provide constructive feedback, drive change within the business.
+Active participation is far more than providing a list of requirements. 
+Communicate effectively to disseminate information to your colleagues.
+We need stakeholders to bring a perspective to the table that others might not have and help us ensure that we have not overlooked an important business need.
+We also need the participants to understand the business needs of others, helping us to identify common process/tool features that can be leveraged your company.
+The adoption of ServiceNow is not about firmly entrenching the way things are currently done within a new tool.
+The effort is an opportunity to improve on the way things are currently done; extracting the largest benefit from ServiceNow.
+This often means changing the way things are done and that is often more challenging than implementing a tool.
+Risks
+Risk Category Impact Probability Mitigation Risk Status Resource Availability Resource High High Boeing to ensure key stakeholders and their delegates are identified. Sponsors / Managers Accept Project Timelines Schedule High High To identify delegates for key stakeholders and closely monitor project timelines for slippages. Sponsors / Managers Monitor On time and Access level to SN instances Schedule & Quality High High To work closely with SN Platform team to provide access as early as possible Sponsors / Managers Monitor Conflicting Priorities Schedule High High To work closely with SN Platform team to identify potential conflicts as early as possible Sponsors / Managers Monitor
+Preliminary High-level Project Plan
+Project Start Date: October 27, 2025
+Planned Project End Date: January 9, 2026
+Jul
+Aug
+Sep
+Oct
+Nov
+Workshop Schedule*
+# Topics Duration Lead Participants (Role/Name) Date Status 1 Now Assist for ITSM Skills; Use Cases; Value Realization Dashboard Overview; Demo on Monitoring Assist Consumption; Boeing ITSM System features; Discussion + Draft Stories (outcome) 2 hours Pankaj & Mylene 7-Nov Scheduled 2 Value Realization Dashboard Deep Dive 1 hour Anusha & Mylene 10-Nov 3 Demoing Phoebe and Elara (NR Agents) 1.5 hours Anthony & Pankaj 11-Nov 4 Integrations Evaluation and Recommendations 1.5 hours Anusha & Pankaj 12-Nov 5 Stories refinement and sign off 13-Nov 6 Boeing AI Roadmap Maturation End of Execute 6 Overflow sessions and follow-ups As needed
+* - Duration, count and type of workshops subject to change
+Next Steps
+Align with Boeing on onboarding of NR project team and other pending items 
+Confirm workshop attendees
+Schedule workshops
+Finalize project plan
+At NewRocket, we believe every client deserves an extraordinary delivery experience. Every project and client is unique. Our Project Managers and Crew Members are some of the best in the industry and ready to make sure you receive an extraordinary experience!
+To ensure you are a raving fan, we will:
+Build a trusted relationship with you acting as a strategic partner
+Follow a consistent delivery methodology
+Promote open and honest two-way communication 
+Check in regularly and ask, “How are we doing?”
+Act on feedback 
+Measure project success using ServiceNow’s CSAT Survey Process
+Hold lessons learned and continuously improve based on feedback
+Outcomes & Success Criteria
+Success Criteria
+Solution Quality
+Raving Fans
+Building trust through transparency and open communication
+Exceed expectations via good strategic partnering
+CSAT Score of 5
+Meeting the expected business outcomes
+Based on guiding principles
+NewRocket looks at success along four dimensions.
+On-time & On-budget
+Partnership
+Proactive use of Project Change Requests (PCRs)
+Proactive use of Risks, Actions, Issues, Decisions (RAID)
+Zipper relationship
+Outcomes & Success Criteria
+Client Satisfaction Survey Process
+The ServiceNow Services Partner Program requires implementation partners to register their services engagement projects. Upon project completion, implementation partners submit Client information which ServiceNow uses to conduct a Client satisfaction (CSAT) survey on behalf of the partner to measure success and gather feedback, which we use to continually improve.
+The ratings and feedback we receive is very important to us, as we are dedicated to earning a CSAT of 5 out of 5 (Excellent), as well as identifying areas of improvement based on the feedback we receive.
+If there are ever ANY issues during the project that would keep you from scoring our team with a 5 out of 5 (Excellent), please reach out to your project manager or account executive to discuss the issue and we will make it right.

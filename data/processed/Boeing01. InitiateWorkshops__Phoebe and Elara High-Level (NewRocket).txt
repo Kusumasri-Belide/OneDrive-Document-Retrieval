@@ -1,0 +1,148 @@
+
+--- Page 1 ---
+Go Beyond Workflows
+Agentic AI in Action: Phoebe & 
+Elara – From Persona to 
+Productivity
+How Intelligent Personas Elevate Workflows with ServiceNow
+August 25th 2025
+Anthony Evans
+
+--- Page 2 ---
+© 2025 NewRocket, LLC. All Rights Reserved. Confidential.
+2
+3
+Continents
+Americas, EMEA, India
+1,200+ 
+Customers 
+going beyond worldflows
+to lasting results
+9
+Validated Practice 
+Badges
+2815 
+Passed ServiceNow 
+Credentials
+1,400 
+Cakes Eaten
+celebrating new go-lives with
+our customers
+4.6/5 
+Customer Satisfaction
+thousands of raving fans
+15
+Product Line 
+Achievements
+500+ 
+Problem Solvers
+ready to help you
+1 
+Global Team
+Your Go-To 
+Experienced 
+Guide
+The challenges you’re up against are 
+big, but with the right team and the right 
+experience they don’t have to be.
+
+--- Page 3 ---
+© 2025 NewRocket, LLC. All Rights Reserved. Confidential.
+3
+The Productivity Gap in 
+Service Operations
+•
+Agents waste time on repetitive triage and 
+documentation
+•
+Knowledge is outdated, underutilized, or 
+incomplete
+•
+Dispatching and resolution processes are 
+costly and inconsistent
+•
+Organizations lack the AI maturity to scale 
+automation confidently
+The Problem Today
+
+--- Page 4 ---
+© 2025 NewRocket, LLC. All Rights Reserved. Confidential.
+4
+AI Teammates That 
+Deliver
+•
+Built with ServiceNow's native AI 
+Agent Studio
+•
+Task-specific, prompt-driven, 
+context-aware
+•
+Extend Now Assist functionality with 
+low lift
+•
+Designed to work with your existing 
+content, catalog, and processes
+Enter Agentic Persona’s
+
+--- Page 5 ---
+Go Beyond Workflows
+Incident Resolution with 
+AI Precision
+•
+Monitors new incidents and triages based on 
+keywords/context
+•
+Pulls relevant knowledge and resolution guidance
+•
+Engages user dynamically for validation
+•
+Escalates to human if automated resolution fails
+•
+Fully logs conversation in ticket for visibility
+Meet Phoebe
+
+--- Page 6 ---
+© 2025 NewRocket, LLC. All Rights Reserved. Confidential.
+6
+•
+Scans recent tickets for candidate articles
+•
+Detects duplication, formats content, checks PII
+•
+Generates KB articles using prompt library
+•
+Follows your brand’s knowledge structure and 
+tone
+•
+Operates on a recurring schedule or ad hoc basis
+Meet Elara
+Automating Knowledge 
+Management
+
+--- Page 7 ---
+© 2025 NewRocket, LLC. All Rights Reserved. Confidential.
+7
+Real Productivity, Real Results:
+30-50% faster resolution times
+Higher deflection via accurate AI 
+suggestions
+4x faster KB growth with Elara
+Consistency and compliance in 
+content
+Reduced dispatch costs through 
+better triage
+
+--- Page 8 ---
+© 2025 NewRocket, LLC. All Rights Reserved. Confidential.
+8
+From Two to Many: The 
+Persona Framework
+•
+Phoebe (ITSM), Elara (KM)
+•
+Rory (Platform Ops), Ariel (HR Ops), Miles (CMDB QA)
+•
+Each persona has defined use cases and prompt libraries
+•
+Start with one department, expand by function
+Scaling with Persona Packs

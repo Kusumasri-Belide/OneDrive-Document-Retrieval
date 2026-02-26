@@ -1,0 +1,986 @@
+
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 1 of 16 
+ 
+Project: 
+Now Assist for ITSM POC & Digital Product Release Advisory 
+Deliverable: Statement of Work  
+ 
+ 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 2 of 16 
+ 
+Contents 
+1. 
+Agreement: ............................................................................................................ 3 
+2. 
+Executive Summary .............................................................................................. 3 
+3. 
+Project Summary & Purpose ................................................................................ 3 
+3.1 
+Now Assist for ITSM................................................................................... 3 
+3.2 
+Digital Product Release (DPR) Advisory Services ................................... 3 
+4. 
+TASKS & MILESTONES ......................................................................................... 4 
+4.1 
+Engagement Methodology ........................................................................ 5 
+4.2 
+Service Activities & Outcomes ................................................................. 5 
+4.2.1 Workstream 1 – ITSM Now Assist Proof of Concept .............................. 5 
+4.2.2 Workstream 2 – Digital Product Release (DPR) Advisory Services ...... 8 
+4.3 
+Timeline and Deliverables ....................................................................... 11 
+4.3.1 Document Construction ......................................................................... 11 
+4.3.2 NewRocket Resources .......................................................................... 11 
+4.3.3 Timeline ................................................................................................... 11 
+4.3.4 Scheduling Delays .................................................................................. 12 
+4.3.5 Deliverables............................................................................................. 12 
+5. 
+Pricing .................................................................................................................. 14 
+5.1 
+Travel Expenses ....................................................................................... 14 
+6. 
+RESOURCES / PERSONNEL & DATA ................................................................. 15 
+7. 
+Authorization and Acceptance .......................................................................... 15 
+ 
+ 
+ 
+ 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 3 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 3 of 16 
+ 
+1. AGREEMENT:  
+This Statement of Work (“SOW”) is entered into under the Master Services Agreement 
+between NewRocket LLC f/k/a Column Technologies, LLC NewRocket, Inc. (“NewRocket”) 
+and World Wide Technology, LLC (“Customer” or “WWT”) dated December 5, 2019 (the 
+“Agreement” or “MSA”) to provide services to The Boeng Company (“Boeng” or “Client”). The 
+parties further acknowledge and agree that the provisions of the Agreement are hereby 
+incorporated by reference and shall apply to this SOW as though set forth herein in their 
+entirety and any Appendix, as applicable, attached hereto All capitalized terms not 
+otherwise defined herein shall have the meanings set forth in the Agreement. 
+2. EXECUTIVE SUMMARY 
+Boeing is seeking expert consultation and architectural support to facilitate the 
+implementation of the ServiceNow Now Assist for ITSM and Digital Product Release (DPR) 
+applications.  
+ 
+NewRocket will provide detailed consultation services, including the review and 
+optimization of the Now Assist for ITSM application, recommendations for integrating Now 
+Assist with enterprise AI platform (Moveworks), and definition of an AI roadmap.  
+ 
+NewRocket will also provide detailed consultation services, including functional and 
+technical review of the existing Release Management 2.0 with a focus on replacement with 
+the DPR application.  
+3. PROJ ECT SUMMARY & PURPOSE 
+3.1 NOW ASSIST FOR ITSM 
+This section of the Statement of Work (SOW) specific to Workstream 1 outlines the scope, 
+activities, and deliverables for a Proof of Concept (POC) implementation of ServiceNow's 
+Now Assist for ITSM. The primary objective of this POC is to demonstrate the core 
+capabilities of Now Assist within a non-production environment, enabling the project 
+stakeholders to evaluate its potential value and impact on IT service management 
+processes. 
+ 
+This engagement workstream is strictly limited to a POC and will not include deployment to 
+a production environment, User Acceptance Testing (UAT), or organizational change 
+management. 
+3.2 DIGITAL PRODUCT RELEASE (DPR) ADVISORY SERVICES 
+This advisory engagement will assess the customer's current use of the legacy ServiceNow 
+Release Management 2.0 application. The objectives are to: 
+• 
+Evaluate the implementation and identify process gaps against best practices. 
+• 
+Provide an actionable plan to retire the legacy module. 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 4 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 4 of 16 
+ 
+• 
+Recommend a transition plan to the modern ServiceNow Digital Product Release 
+(DPR) solution. 
+ 
+This engagement workstream is purely advisory. All development, configuration, and 
+implementation of recommendations will be the responsibility of the customer's internal 
+platform team. 
+4. TASKS & MILESTONES 
+NewRocket’s Implementation Services are specifically designed for organizations 
+interested in accelerating process maturity and automating enterprise service delivery by 
+leveraging the power of the Enterprise ServiceNow platform. 
+NewRocket will lead a series of collaborative workshops with Client key stakeholders to 
+assess, guide, and finalize consensus on Client’s requirements. Following the workshops, 
+NewRocket will create a set of stories (based on workstream below) and review them with 
+Client’s key stakeholders to ensure a shared understanding of the future state ServiceNow 
+solution. The stories will then be used as the guidepost with which to deploy the desired 
+state within Client’s ServiceNow platform. 
+This is a fixed scope, multi-workstream engagement that includes the following 
+components (by workstream): 
+Workstream 1 (Now Assist for ITSM Proof of Concept) 
+- 
+Now Assist Use-Case Development Workshops 
+- 
+Now Assist and NewRocket Agentic AI Product demonstrations 
+- 
+Proof of Concept Development and Unit Testing (non-production environment) 
+- 
+Artificial Intelligence (AI) Value Realization Dashboard 
+ 
+Workstream 2 (Digital Product Release Advisory Services) 
+- 
+Workshops to assess current Release Management 2.0 configuration and 
+supporting process(es) 
+- 
+Replacement of the legacy Release Management 2.0 application with DPR product, 
+and process gap analysis against industry best-practices 
+- 
+Formulation of actionable recommendations for functional and technical 
+configuration and process changes 
+From project initiation to the conclusion of workshops/production support, the holistic 
+estimated timeline for this effort is documented in the Timeline section of this statement 
+of work based on what is known today. A detailed project plan will be created during the 
+Initiate phase and updated after workshops are completed and all in-scope stories are 
+documented. 
+ 
+ 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 5 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 5 of 16 
+ 
+4.1 ENGAGEMENT METHODOLOGY 
+NewRocket guides its clients through engagements utilizing ServiceNow’s Now Create 
+methodology, with NewRocket best practices added where appropriate (review our 
+methodology, governance, change control process and other applicable appendices on our 
+website).  Based on workstream, NewRocket will align to this methodology for this 
+engagement as shown below. 
+ 
+4.2 SERVICE ACTIVITIES & OUTCOMES 
+In alignment with the Project Summary and Purpose section, the scope of this project 
+includes the below parallel workstreams: 
+4.2.1 Workstream 1 – ITSM Now Assist Proof of Concept 
+Initiate 
+Objective 
+Project preparation activities commence including a formal project 
+kickoff meeting between the Client and NewRocket delivery team to 
+review and align on goals, objectives, scope, and initial timeline. 
+Activities 
+Project kickoff, stakeholder alignment. 
+Activities: 
+• 
+Define and agree upon specific, measurable success criteria for 
+the POC. 
+• 
+Identify key stakeholders and establish project governance and 
+communication plans. 
+• 
+Confirm scope and identify up to three (3) specific use cases for 
+Now Assist to be demonstrated (e.g., Incident Summarization, 
+Resolution Note Generation). 
+• 
+Identify one (1) high-volume, low-complexity IT support topic to 
+be configured in Virtual Agent for demonstrating conversational 
+AI capabilities. 
+• 
+Provide an overview of the Now Assist for ITSM capabilities and 
+architecture. 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 6 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 6 of 16 
+ 
+Outcomes 
+Initial Project Plan and workshops are scheduled 
+Plan 
+Objective 
+Conduct workshops to understand process and platform needs. Then 
+define the configuration requirements and refine the engagement 
+timeline. 
+Activities 
+NewRocket will facilitate requirements workshops with key Client 
+stakeholders, the objective is to design the user experience and 
+functional behavior of the selected use cases. 
+ 
+Activities: 
+• 
+Map out the desired flow for the selected Virtual Agent 
+conversation topic, including key decision points and expected 
+outcomes. 
+• 
+Review and define the prompts and expected outputs for Now 
+Assist skills, such as incident summarization and generative 
+resolution notes. 
+• 
+Discuss the desired behavior for Agent Assist and search results 
+within the context of an incident record. 
+• 
+Define the test data requirements needed to effectively 
+demonstrate the POC use cases. 
+• 
+Align on use-case for up to three (3) existing ServiceNow 
+product-provided ITSM AI skills, to be selected from the following 
+skills: 
+o Incident Summarization 
+o Resolution Note Generation 
+o Agent Assist Search 
+o Knowledge Article Summarization 
+o Knowledge Article Generation 
+• 
+Align on use-case for up to two (2) NewRocket Agent ITSM AI 
+accelerators: 
+o “Phoebe” – Incident Resolution Agent 
+o “Elara” – Knowledge Management Agent 
+• 
+Creation of Artificial Intelligence Roadmap 
+o Recommendations for potential integrations with 3rd 
+party/non-ServiceNow AI systems 
+• 
+Evaluation of integration options between Now Assist and 
+Boeing’s 3rd Party systems. 
+o NewRocket will provide integration recommendations 
+o Integration implementation will be scoped separately, as 
+requested 
+o Boeing will prioritize and determine technical feasibility 
+As an output of the workshops, NewRocket will facilitate a meeting with 
+Client stakeholders to discuss configuration strategies and project 
+timeline, as well as clarify any pending questions regarding the POC 
+solution. 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 7 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 7 of 16 
+ 
+Outcomes 
+ 
+- 
+Consensus on the POC solution documented in stories by Boeing 
+Product Manager (s). 
+- 
+Project schedule deliverable highlighting the project milestones, 
+tasks, and associated timelines based on the agreed upon stories 
+documented in the workshops. 
+Execute 
+Objective 
+Provide configuration updates/enhancements the solution as defined in 
+previous stages, based on the agreed requirements from the Plan phase 
+and within the constraints of the allocated duration for the Execute 
+phase. All Execute phase activities will be completed within the 
+designated Boeing non-production environment 
+Activities 
+Now Assist for ITSM Configuration/Refinement 
+- 
+Update or refine the necessary Now Assist for ITSM plugins and 
+applications in the target non-production ServiceNow instance. 
+- 
+Update or refine configuration of up to three (3) Now Assist skills 
+based on the design workshop stories. 
+- 
+Configure up to two (2) NewRocket Agentic AI accelerators based 
+on the design workshop stories. 
+- 
+Review and provide recommendations for necessary roles and 
+permissions for users to access and utilize Now Assist features. 
+- 
+Provide recommendations for Now Assist license consumption 
+control. 
+Outcomes 
+ServiceNow platform elements, in-scope applications, and capabilities 
+configured per the agreed upon stories. NewRocket will also conduct 
+functional testing in this phase to ensure alignment with POC objectives 
+and desired outcomes. 
+Close 
+Objective 
+Formal engagement closure, feedback on lessons learned and 
+assessment of success. 
+Activities 
+NewRocket will conduct a project close out briefing.  
+Outcomes 
+Customer acknowledgement of success regarding Workstream 1 
+objectives and outcomes agreed upon in the Initiate Phase. 
+General Workstream 
+Assumptions 
+- 
+Boeing Product Manager(s) will participate and document 
+development stories in collaboration with NewRocket 
+- 
+The customer will provide access to a dedicated non-production 
+ServiceNow instance with administrator privileges. 
+- 
+The customer will make subject matter experts and stakeholders 
+available for the scheduled workshops. 
+- 
+The required Now Assist for ITSM entitlements/licenses are 
+available for the target instance. 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 8 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 8 of 16 
+ 
+Exclusions 
+The following items are explicitly out of scope for this engagement, 
+elements defined herein can be placed into scope through an approved 
+change order: 
+- 
+Deployment to any production or UAT ServiceNow instance 
+- 
+Formal User Acceptance Testing (UAT) cycles 
+- 
+Training (Train-the-Trainer or End User) 
+- 
+Process Guides, Quick Reference Guides 
+- 
+Configuration documentation or technical knowledge transfer 
+documentation or meetings/sessions 
+- 
+Integration with any third-party systems 
+- 
+Development of Now Assist for ITSM or NewRocket accelerators 
+beyond the stated scope above 
+- 
+Organizational Change Management, end-user training, and 
+communication plans 
+- 
+Performance testing, load testing, or SLA validation 
+- 
+Migration of any data 
+- 
+Modifications to the base Now Assist models or algorithms 
+4.2.2 Workstream 2 – Digital Product Release (DPR) Advisory Services 
+Initiate 
+Objective 
+Project preparation activities commence including a formal project 
+kickoff meeting between the Client and NewRocket delivery team to 
+review goals, objectives, scope, and initial timeline. 
+Activities 
+Project kickoff, stakeholder alignment. 
+Outcomes 
+Initial Project Plan and advisory workshops are scheduled 
+Plan 
+Objective 
+Conduct advisory workshops to understand current state and potential 
+gaps with best practices. Then define the configuration 
+recommendations. 
+Activities 
+NewRocket will facilitate requirements workshops with key Client 
+stakeholders in which the participants will collaboratively: 
+ 
+Assessment & Design 
+- 
+Conduct Current State Functional & Process Review 
+Workshops 
+o Objective: To understand Boeing’s existing release 
+management lifecycle, governance, and procedures. 
+o Activities: 
+ 
+Conduct workshops with release managers and 
+process owners to map current-state release 
+processes from planning to deployment. 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 9 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 9 of 16 
+ 
+ 
+Review existing process documentation, policies, 
+and operational procedures. 
+ 
+Review of upstream and downstream process 
+dependencies with respect to the release 
+lifecycle include intake, demand, etc. 
+ 
+Functionally review the live DPR application to 
+understand how it supports the current process. 
+ 
+Identify stakeholder pain points, challenges, and 
+desired business outcomes. 
+- 
+Conduct Technical & Architectural Review 
+o Objective: To assess the technical configuration of the 
+Release 2.0 application. 
+o Activities: 
+ 
+Review the legacy Release Management 2.0 
+application's configuration, including data model, 
+workflows, and integrations. 
+ 
+Analyze usage patterns, release data integrity, 
+and reporting capabilities. 
+ 
+Assess alignment with ServiceNow's best 
+practices for architecture and maintainability. 
+ 
+Identify any technical debt or configuration 
+challenges that may be hindering value. 
+Analysis & Recommendations 
+- 
+Gap Analysis & Best Practice Alignment 
+o Objective: To identify and document deviations from 
+best practices in both process and technology 
+o Activities:  
+ 
+Analyze findings from the workshops to identify 
+gaps between Boeing's current processes and 
+industry-standard release management 
+frameworks. 
+ 
+Compare DPR application processes and product-
+provided configurations with ServiceNow 
+recommended practices. 
+ 
+Prioritize identified gaps based on business 
+impact and feasibility to address. 
+ 
+Provide potential integration recommendations 
+with 3rd party systems such as Azure DevOps. 
+- 
+Recommendations Development 
+o Objective: To provide clear, actionable guidance for 
+process improvement and technical implementation for 
+the DPR application. 
+o Activities: 
+ 
+Develop recommendations for optimizing 
+functional release management processes to 
+leverage DPR capabilities. 
+ 
+Formulate architectural and configuration 
+recommendations for the customer's 
+development team to execute. 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 10 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 10 of 16 
+ 
+ 
+Create a high-level plan for implementation of the 
+proposed recommendations. 
+ 
+Present findings and recommendations to key 
+stakeholders 
+ 
+Conduct iterative review sessions to provide 
+functional and technical guidance as Boeing's 
+platform team executes development of the 
+recommendations. 
+- 
+Organizational Change Management Support 
+o Stakeholder Analysis and Impact Assessment 
+o Communication Strategy 
+Outcomes 
+ 
+- 
+Consensus and alignment on DPR findings and 
+recommendations. 
+- 
+Consensus on the DPR solution documented in stories by Boeing 
+Product Manager (s). 
+- 
+Acceptance of DPR readout with findings and recommendations 
+- 
+Boeing executes development activities based on approved 
+recommendations and conducts iterative review of configuration 
+and process changes. 
+Close 
+Objective 
+Formal engagement closure, feedback on lessons learned and 
+assessment of success. 
+Activities 
+NewRocket will conduct a project close out briefing  
+Outcomes 
+Customer acknowledgement of success regarding Workstream 2 
+objective and outcomes agreed upon in the Initiate Phase. 
+General Workstream 
+Assumptions 
+- 
+Boeing Product Manager(s) will participate in and document 
+development stories in collaboration with NewRocket 
+- 
+The customer will provide appropriate access to their 
+ServiceNow instances (production for review, non-production for 
+deeper analysis) and relevant documentation. 
+- 
+The customers will make key personnel and subject matter 
+experts (e.g., Release Managers, Product Owners, ServiceNow 
+Platform Team) available for workshops and interviews. 
+- 
+The customer's platform team is responsible for the execution of 
+all technical recommendations. 
+- 
+NewRocket will leverage existing FlightPath information to 
+inform this workstream. 
+Exclusions 
+- 
+Any story creation, hands-on development, configuration, 
+testing, or deployment activities within any ServiceNow 
+instance. 
+- 
+Execution of the recommendations provided. 
+- 
+End-user training and creation of training materials. 
+- 
+Data migration, cleansing, or validation. 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 11 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 11 of 16 
+ 
+4.3 TIMELINE AND DELIVERABLES 
+4.3.1 Document Construction 
+All deliverables may go through up to two (2) rounds of review and revision by Boeing. 
+Boeing will review the document within five (5) business days and provide consolidated 
+feedback and acceptance. Failure to provide a timely review or additional rounds of 
+review/remediation may negatively impact the overall project by extending the project 
+timeline and scope ultimately resulting in a Change Order. Additionally, NewRocket cannot 
+guarantee consistent resource availability in the event the review is extended due to 
+Boeing failure. Should Boeing fail to provide acceptance or reason for rejection in writing 
+after five (5) business days of review, NewRocket will assume the document is accepted. 
+4.3.2 NewRocket Resources 
+Project services will be delivered remotely by a global delivery team. Failure of 
+Boeing to uphold its obligations to provide timely decisions and direction to 
+NewRocket, and/or provide any dependent information as requested by NewRocket 
+may negatively impact the overall project by extending the project scope, budget 
+and/or timeline and ultimately resulting in a change order.  Client driven changes to 
+the timeline set forth in this SOW may incur changes to the budget required to meet 
+the scope of this SOW. 
+4.3.3 Timeline 
+The target timeline to complete the work of each workstream is: 
+ 
+- 
+Workstream 1 – Now Assist for ITSM POC – eight (8) weeks 
+- 
+Workstream 2 – Digital Product Release Advisory Services – six (6) weeks 
+Timelines for each workstream assume adherence to understandings laid out in 
+this contract.  This timeline is based on effort and duration by Stage in sequential 
+order as provided below based on the information available and/or captured in the 
+Estimate Effort at time of writing this SOW, but to be confirmed (and perhaps 
+modified) during the Plan Stage:    
+Workstream 1 – Now Assist for ITSM POC 
+Project Stage 
+Estimated 
+Duration (Weeks) 
+Initiate 
+1 
+Plan 
+1 
+Execute 
+4 
+Deliver 
+1 
+Close 
+1 
+Total 
+8 
+ 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 12 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 12 of 16 
+ 
+Workstream 2 – Digital Product Release Advisory Services 
+Project Stage 
+Estimated 
+Duration (Weeks) 
+Initiate 
+1 
+Plan 
+4 
+Close 
+1 
+Total 
+6 
+NOTE: The duration estimates are in no way a guarantee of delivery of the 
+capabilities reflected in Sections 3.1 and 3.2 but are estimated based upon high 
+level scoping and the details provided by Client at the time of this SOW. The 
+timeline does not account for other factors such as holidays that go into a project 
+schedule. That final schedule will be confirmed at the conclusion of the Plan stage. 
+4.3.4 Scheduling Delays 
+If Client causes delays or pauses this project for more than 3 consecutive business 
+days, NewRocket may re-assign the assigned project team and Client’s project will 
+then be rescheduled.  If a project is rescheduled, NewRocket will attempt to assign 
+the same resources but does not guarantee the same resources will be assigned.  In 
+the event of a Client delay or project pause, Client may choose to ‘hold’ the 
+NewRocket team at the contracted day rate of each assigned NewRocket crew 
+member, or, in the event of a fixed fee project then at a cost of 100% of the 
+prorated daily project fee (i.e./ a $100,000 fixed fee engagement planned to be 
+delivered of 75 days = $1,333/day = $1,333/day ‘hold’ fee).  Delays or Pauses shall be 
+documented via the Change Order process. 
+4.3.5 Deliverables 
+Bundle 
+Workstream 
+Deliverable 
+Description 
+Estimated 
+Week 
+1.1 Discovery 
+& Design 
+1 - Now Assist 
+ITSM POC 
+Project 
+Workstream Kick-
+off Meeting 
+One (1) PowerPoint, 
+review of SOW and 
+alignment of project 
+goals and outcomes 
+End of 
+Week 2 
+Now Assist ITSM 
+Workshop 
+One (1) PowerPoint 
+NewRocket 
+Agentic Agent 
+Workshop 
+One (1) PowerPoint 
+2.1 Discovery 
+& Readout 
+2 - Digital 
+Product 
+Release 
+Project 
+Workstream Kick-
+off Meeting 
+One (1) PowerPoint, 
+review of SOW and 
+alignment of project 
+goals and outcomes 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 13 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 13 of 16 
+ 
+Advisory 
+Services 
+Release 
+Management 
+Workshops & 
+Readout 
+One (1) PowerPoint 
+1.2 POC Build 
+& Demo 
+1 - Now Assist 
+ITSM POC 
+Now Assist ITSM 
+Refinement 
+Now Assist configured 
+in designed non-
+production 
+environment, one (1) 
+use case 
+End of 
+Week 6 
+NewRocket 
+Agentic Agent 
+Activation & 
+Configuration 
+NewRocket Agentic 
+Agent configured in 
+designed non-
+production 
+environment, up to two 
+(2) agents 
+NewRocket AI 
+Value Realization 
+Dashboard 
+One (1) snapshot 
+dashboard with up to 
+three (3) use cases 
+specific to the POC 
+2.2 OCM 
+Strategy 
+Package 
+2 - Digital 
+Product 
+Release 
+Advisory 
+Services 
+OCM Stakeholder 
+Analysis and 
+Impact 
+Assessment 
+One (1) PowerPoint (or 
+agreed upon format) 
+End of 
+Week 4 
+OCM 
+Communications 
+Strategy 
+One (1) Word (or agreed 
+upon format)  
+1.3 AI Strategy 
+& Governance 
+1 - Now Assist 
+ITSM POC 
+AI Roadmap 
+One (1) AI roadmap 
+End of 
+Week 7 
+AI Integration 
+Recommendations 
+One (1) Word (or agreed 
+upon format) 
+documenting 
+integration 
+recommendations with 
+Boeing 3rd party 
+systems 
+AI Governance 
+Memo 
+One (1) Word (or agreed 
+upon format) AI 
+Governance Memo 
+document 
+1.4 Final 
+Handover & 
+Closeout 
+1 - Now Assist 
+ITSM POC 
+AI Configuration 
+Runbook 
+One (1) Word (or agreed 
+upon format) 
+documenting 
+configuration updates 
+and NewRocket 
+product configuration 
+End of 
+Week 8 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 14 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 14 of 16 
+ 
+5. PRICING 
+For the project services described in this SOW, Boeing will pay a fixed fee of: 
+- 
+Workstream 1 – Now Assist for ITSM POC $125,000.00 USD 
+- 
+Workstream 2 – Digital Product Release Advisory Services $125,000.00 USD 
+- 
+Total Engagement Value:  $250,000.00; 
+plus applicable federal, state and local taxes. This fee does not include any travel expenses. 
+Any deviations to agreed upon parameters may be subject to a change order which may 
+increase the overall cost of the project. NewRocket will invoice Boeing according to the 
+tables below. 
+Workstream 1 – Now Assist for ITSM POC 
+#  
+Milestone 
+Percentage 
+Payment 
+1 Contract Signature 
+25% $31,250.00 
+2 Commencement of Plan Stage 
+25% $31,250.00 
+3 Commencement of Execute Stage 
+40% $50,000.00 
+4 Project Close Sign-Off 
+10% $12,500.00 
+Total Net Fees 
+$125,000.00 
+Workstream 2 – Digital Product Release Advisory Services 
+#  
+Milestone 
+Percentage 
+Payment 
+1 Contract Signature 
+25% $31,250.00 
+2 Commencement of Plan Stage 
+25% $31,250.00 
+3 Commencement of Execute Stage 
+40% $50,000.00 
+4 Project Close Sign-Off 
+10% $12,500.00 
+Total Net Fees 
+$125,000.00 
+As each milestone is completed, the NewRocket Project Manager will request approval 
+from Boeing’s Project Manager via email. Boeing will have five (5) business days to approve 
+or reject after which approval will be assumed. Once approval is received, an invoice will be 
+sent for the respective milestone to WWT. The Agreement defines additional terms of 
+payment, and payments made are non-refundable. 
+5.1 TRAVEL EXPENSES 
+Should travel to an onsite location be required, every effort will be made to minimize travel 
+expenses as best as required to deliver a successful project. All travel will be approved by 
+Boeing prior to booking and will be invoiced for actual incurred costs. All actual travel and 
+living expenses will be billed monthly to Client in accordance with the Agreement. 
+Agreement defines additional terms of payment, and payments made are non-refundable. 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+
+--- Page 15 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 15 of 16 
+ 
+6. RESOURCES /  PERSONNEL & DATA 
+Boeing will provide laptops and badges. Boeing will grant remote access to GSEP systems 
+and other Boeing resources needed for the purpose of providing the services. The supplier 
+will not have access to Boeing systems that contains Proprietary and PII Data.  
+7. AUTHORIZATION AND ACCEPTANCE 
+The SOW and the Agreement constitute the entire Agreement between the parties, and 
+supersede all prior agreements and understandings, whether oral or written, relating to this 
+subject matter. 
+The acceptance of this SOW must be acknowledged and signed below by a duly authorized 
+representative of Boeing and returned to NewRocket to initiate scheduling and delivery of 
+the services outlined in this SOW. Signing below indicates authorization for NewRocket to 
+begin work and generate related invoicing. Please note that the terms and conditions 
+contained in this SOW and the Agreement shall supersede any pre-printed terms and 
+conditions on a purchase order. 
+NewRocket LLC 
+World Wide Technology, LLC. (“WWT”) 
+  
+  
+Authorized Signature 
+Authorized Signature 
+  
+  
+Printed Name and Title 
+Printed Name and Title 
+  
+  
+Date 
+Date 
+  
+ 
+Authorized Signature 
+  
+Printed Name and Title 
+  
+Date 
+The effective date of the SOW shall be the latest date of signature when signed by both the 
+parties. By signing this document, each party warrants that they are authorized to sign to 
+bind their company for the specified amount and included terms.  Signature also 
+constitutes Boeing ‘s approval for NewRocket to submit cases to ServiceNow’s HI portal on 
+Boeing ‘s behalf. All parties signing the SOW are authorized signatories of the company. 
+Paul Gettier - Regional Manager
+10/20/2025
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8
+Michael Carter
+10/21/2025
+Chief Revenue Officer
+Chief Financial Officer
+Sanjeev Munjal
+10/21/2025
+
+--- Page 16 ---
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2001 The Boeing Company.  All rights reserved.                  
+Page 16 of 16 
+ 
+The signed SOW authorizes NewRocket to include the names and email addresses of 
+relevant or specified project participants for the ServiceNow Deployment Registration and 
+CSAT process. 
+NewRocket will invoice WWT in accordance with the Agreement. Invoices will be emailed to 
+the address indicated above. Unless otherwise expressly stated, invoices do not require a 
+PO to be processed and paid. 
+NewRocket LLC 
+Client Billing Information 
+Harry Tomczyk 
+Company Name: 
+Account Executive 
+Address:   
+Phone No.:  619-385-0286 
+ 
+Email: harry.tomczyk@newrocket.com 
+ 
+J ason Hagen 
+Billing Name:   
+Enterprise Solution Consultant 
+Billing Phone No.:   
+Phone No.:  765-577-0298 
+Billing Email:   
+Email: jason.hagen@newrocket.com 
+ 
+Docusign Envelope ID: 91D46052-FD5A-409C-B18E-75E5C9CCBDD8

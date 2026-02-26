@@ -1,0 +1,624 @@
+
+--- Page 1 ---
+Go Beyond Workflows
+Now Assist for ITSM
+Workshop #1
+November 7, 2025
+
+--- Page 2 ---
+2
+Agenda
+• Review Boeing Current Mode of Operation of 
+AI functionality
+o What's already installed (skills, Virtual agent?)
+o What have you tested
+• Review high level Now Assist offering (available 
+skills)
+• Demo
+• Confirm which 3 skills we'll enable 
+and configure
+• Quick assessment for the 3 skills
+• Next steps
+
+--- Page 3 ---
+© 2025 NewRocket, LLC. All Rights Reserved. Confidential.
+3
+© 2025 NewRocket, LLC. All Rights Reserved. Confidential.
+3
+Current State Assessment
+End User Experience 
+(Portal/ Self Service)
+•
+Disparate portals exist, leading to 
+fragmented user experience and 
+disconnected fulfillment.  
+•
+Built on Service Portal, not yet on Employee 
+Center. 
+•
+End user experience is very fragmented, 
+static and not cohesive. 
+Service Catalog
+Knowledge 
+Management
+Enterprise Helpdesk
+Incident and Major 
+Incident Management
+Change Management
+Problem Management
+Intake and Release 
+Management
+ITSM Assessment Areas and Maturity
+2
+4/1
+4
+2
+3/ 
+3.5
+2
+2
+3
+•
+Service Catalog Management 
+process oversight is mature. 
+•
+User experience and consumption 
+of the catalog items for self-
+service/ support requests can be 
+matured. 
+•
+ Boeing’s Knowledge Management is 
+highly mature and formalized
+•
+There are around 11,000 IT knowledge 
+articles in the system, indicating a vast 
+repository that covers a wide array of 
+topics – a strength for self-service and 
+support
+•
+EHD supports multiple channels
+•
+Improvements are limited by fulfiller UI 
+being outdated
+•
+Data extraction to support 
+performance measures are manual and 
+are performed using  disparate 
+systems. 
+•
+Boeing supports multi-channel incident 
+intake 
+•
+While the overarching incident process is 
+consistent, each support team has the 
+bandwidth to personalize procedures
+•
+MIM is  at a higher maturity
+•
+Practice is well-deﬁned with three 
+change types: Standard (pre-
+approved), Normal, and Emergency.
+•
+Changes are perceived to be the major 
+cause of incidents
+•
+Module is signiﬁcantly customized to 
+support process
+•
+Major problem management is mature, 
+featuring structured workflows, evidence-
+based RCA, and clear accountability
+•
+The enterprise problem management 
+process is inconsistent and team-driven, 
+with low overall adoption of the problem 
+module
+•
+Boeing’s release management is 
+thorough.
+•
+Release deployments are managed as 
+formal events, often done after-hours 
+or in maintenance windows.
+•
+The team is actively working on DPR, to 
+enhance integration with ADO
+Level
+Level
+Level
+Level
+Level
+Level
+Level
+Level
+
+--- Page 4 ---
+4
+Generative AI key concepts
+Usage
+Actions
+A set of instructions to accomplish a 
+specific task, e.g. ‘Summarize this 
+incident’
+Assists
+Currency for capturing the cost 
+and value of the assist actions
+Product
+Skills
+Individual use case capabilities for 
+Now Assist, e.g. Incident/case 
+Summarization, recommended 
+actions 
+Models
+The large language model (LLM) 
+used to provide the foundation 
+functionality, e.g. NowLLM, 
+OpenAI
+
+--- Page 5 ---
+5
+Example skills
+Chat and agent hand-off 
+summarization
+Resolution Notes 
+Generation
+Employee
+Workflows
+Technology
+Workflows
+Creator Workflows
+and Others
+Customer & Industry
+Workflows
+Case summarization
+Recommended actions
+Automated
+knowledge creation
+Text-to-code
+Enhanced
+search
+Now Assist via 
+domain-specific LLMs
+Low-code configuration 
+and analytics
+E X A M P L E S
+E X A M P L E S
+E X A M P L E S
+E X A M P L E S
+E X A M P L E S
+Text-to-app
+Flow Designer
+recommender
+Email composer 
+generation
+Employee
+skills growth
+Root cause analysis
+Incident overview 
+summarization
+further information see docs
+
+--- Page 6 ---
+6
+Core concepts for usage
+Instruction 
+Any communication where a 
+human or system is providing 
+guidance, input, or direction to a 
+machine via the GAI Controller
+Examples:
+• Click “Summarize” button
+• //get incidents created yesterday
+• “It’s too long, make it shorter”
+Action 
+A set of instructions to 
+accomplish a specific task
+Examples:
+• Click “Summarize” button
+• //get incidents created yesterday
+•
+“Summarize this case”
+•
+> “Also add the resolution information”
+•
+> “It’s too long, make it shorter”
+Assist
+Currency for capturing 
+the cost and value of the 
+assist actions (mapping 
+between an action and its 
+price tag per assist tier)
+Each Action will use one or more Assists
+More complex Actions will use more Assists 
+
+--- Page 7 ---
+7
+Now Assist panel
+Overview
+•
+Accessible by agents within both UI16 
+and workspaces from the unified 
+navigation bar.
+•
+Agents can ask the Now Assist panel to 
+perform the following skills*:
+– Incident Summarization
+– Resolution Note Generation
+•
+see Now Assist for ITSM deployment 
+guide for further details
+Now Assist panel
+Decision Required:
+For features that support the Now Assist panel, will it be enabled or will you display 
+capabilities in product?
+
+--- Page 8 ---
+8
+Now Assist panel
+Overview
+• Efficiently gather common 
+incident-related information by 
+asking questions within the 
+incident record using the Now 
+Assist panel
+• Incident assist topics in the Now 
+Assist panel include:
+⎯Caller's assets
+⎯Caller's recent incidents (within 
+the past 7 days)
+⎯On-call experts from support 
+groups
+⎯Similar resolved incidents
+Now Assist panel
+Utilize the Now Assist panel to inquire about an incident
+
+--- Page 9 ---
+9
+Incident Assist
+LLM Model: Now LLM
+Supported in Now Assist panel: Yes
+Supported in product (button): Yes
+•
+Efficiently gathers common 
+incident-related information by 
+asking questions within the 
+incident record using the Now 
+Assist panel. 
+•
+Incident assist topics in the Now 
+Assist panel include:
+-
+Caller's assets
+-
+Caller's recent incidents 
+(within the past 7 days)
+-
+On-call experts from support 
+groups
+-
+Similar resolved incidents
+
+--- Page 10 ---
+10
+LLM Model: Now LLM
+Supported in Now Assist panel: Yes
+Supported in the product (button): 
+Yes
+Chat summarization
+•
+Summarizes 
+Troubleshooting Done 
+by Virtual or Live 
+Agent
+•
+Helpful for Agents 
+Looking to Pickup 
+Where the Virtual 
+Agent Left Off
+•
+Reduces MTTR and 
+Improves Experience
+
+--- Page 11 ---
+11
+Incident summarization
+LLM Model: Now LLM
+Supported in Now Assist panel: Yes
+Supported in product (button): Yes
+•
+Summarizes 
+Troubleshooting Done 
+by Previous Agent
+•
+Helpful for Agents 
+Looking to Pickup 
+Where the Last Agent 
+Left Off
+•
+Reduces MTTR and 
+Improves Experience
+
+--- Page 12 ---
+12
+Incident summarization 
+Core UI
+LLM Model: Now LLM
+Supported in Now Assist panel: Yes
+Supported in product (button): Yes
+Enhance the incident 
+summary for your agents 
+by incorporating 
+additional details, 
+including SLAs, affected 
+Configuration Items 
+(CIs), impacted services, 
+and related child 
+incidents
+
+--- Page 13 ---
+13
+Sidebar discussion summarization
+LLM Model: Now LLM
+Supported in Now Assist panel: Yes
+Supported in product (button): Yes
+• Lower Total Cost of 
+Ownership
+• Increase Self 
+Service 
+• Reduces MTTR
+• Improved Service 
+Quality
+
+--- Page 14 ---
+14
+Resolution note generation
+LLM Model: Now LLM
+Supported in Now Assist panel: Yes
+Supported in the product (button): Yes
+•
+Generates 
+Resolution Notes and 
+Code 
+•
+Helps Agents Adhere 
+to Best Practices
+•
+Increases 
+Productivity and 
+Improves Experience
+
+--- Page 15 ---
+15
+Resolution note generation
+LLM Model: Now LLM
+Supported in Now Assist panel: Yes
+Supported in product (button): Yes
+The Assist icon offers 
+the following 
+functionalities:
+•
+Generate resolution 
+notes derived from 
+the incident 
+information
+•
+Refine the resolution 
+notes by either 
+elaborating on or 
+condensing them
+
+--- Page 16 ---
+16
+Chat reply recommendation
+LLM Model: Now LLM
+Supported in Now Assist panel: Yes
+Supported in product (button): Yes
+•
+Generates a recommended reply that is based on the context of the conversation
+•
+Refines the recommendation by elaborating or shortening the response
+
+--- Page 17 ---
+17
+Change request summarization
+LLM Model: Now LLM
+Supported in Now Assist panel: Yes
+Supported in product (button): Yes
+•
+Offers a concise summary of a change request
+•
+Captures the important details of a change request like Description, Risk, Impact, Work Notes, 
+etc.
+
+--- Page 18 ---
+18
+Change request risk explanation
+LLM Model: Now LLM
+Supported in Now Assist panel: Yes
+Supported in product (button): Yes
+•
+Generates the 
+explanation of the 
+calculated risk rating for 
+a change request
+•
+Data from the change 
+request input table and 
+additional inputs are 
+used to justify the risk 
+rating (high, medium, or 
+low) of a change
+
+--- Page 19 ---
+19
+Knowledge generation from resolved incident
+•
+Generates Article Content 
+for Review based on incident 
+resolution details
+•
+Publish recommended 
+knowledge articles 
+generated by AI
+•
+Deflect incidents and 
+increase uptime by scaling 
+requestor 
+self-service content
+
+--- Page 20 ---
+20
+Knowledge generation from resolved incident
+•
+When drafting the article using Now 
+Assist, a user can select up to five 
+relevant tasks to assist in its creation
+•
+After making your selections, click 
+'Use selected tasks to help draft 
+new article.' If you do not wish to 
+proceed, click 'Cancel’
+•
+"When compiling an article that 
+encompasses information from 
+multiple similar incidents, a single 
+article is generated, incorporating 
+details from the chosen incidents
+
+--- Page 21 ---
+21
+Demo
+To be demonstrated
+•
+Now assist panel
+•
+Skills
+
+--- Page 22 ---
+22
+Decision time
+Align on which skills should be configured
+•
+Keep in mind that agents Phoebe and Elara agents will be deployed, taking care of knowledge and 
+closing of incidents
+•
+Chat summarization within interaction record
+•
+Major incident summarization
+o
+Bryan to provide examples.
+•
+Knowledge summarization against Q&A for the fulfiller aligned with Boeing customized knowledge (hold 
+for now, include in the roadmap)
+
+--- Page 23 ---
+23
+Assessment
+Answers
+Are there additional input fields that would facilitate 
+summarization? 
+Are Short Description and Description fields out-of-
+box?
+Are State choice values out-of-box?
+Is the Resolution workflow out-of-box or are there any 
+customizations around task resolution to be aware 
+of?
+Are the agent roles out-of-box or are any custom 
+roles used that need to be factored in? 
+Is the plan to move all agent to Next Experience UI? 
+I.e. newest workspace? If so, when?
+
+--- Page 24 ---
+24
+Deliverables, Exclusions and Assumptions
+Exclusions:
+•
+Production deployment and post-
+production support
+•
+Customization of NewRocket Agents 
+or Now Assist features
+•
+Development of custom AI or Large 
+Language Models (LLM)
+•
+Implementation of ServiceNow 
+modules beyond advisory related to 
+the current implementation (ITSM 
+Now Assist).
+•
+Data cleansing or improvement of 
+existing incident records or 
+knowledge articles
+•
+Development of custom integrations 
+to any third-party systems
+•
+Re-training of the underlying 
+ServiceNow LLMs
+Assumptions:
+•
+Base ITSM applications are 
+implemented, conﬁgured and 
+operations.
+•
+This POC will leverage the LLM 
+provided by ServiceNow through the 
+Now Assist product.
+•
+Boeing will provide a Project Manager 
+to collaborate with the NewRocket 
+Project Manager
+•
+Boeing will provide clear and timely 
+feedback
+•
+Boeing will provide clear business 
+goals during the Initiate stage of the 
+engagement
+•
+Boeing will provide NewRocket 
+resources with access to non-
+production environments in support 
+of this program prior to development 
+activities starting
+Deliverables:
+•
+Phoebe and Elara Agentic Agent 
+Accelerators (as identified by 
+approved use cases) 
+o
+Workshop next week
+•
+ITSM Now Assist deployment in sub-
+production environment for POC 
+testing
+
+--- Page 25 ---
+25
+Next Steps
+1.
+Coordinated instance and access plan
+2.
+Upcoming Workshops
+o
+Value Realization Dashboard Deep Dive
+o
+Demoing Phoebe and Elara (NR Agents)
+o
+Integrations Evaluation and Recommendations
+o
+Stories refinement and sign off
+o
+Boeing AI Roadmap Maturation (schedule later)
+3.
+Create outstanding stories based on approved configuration
+4.
+Review stories and provide feedback or acceptance of stories
+5.
+Configuration can begin
+
+--- Page 26 ---
+© 2025 NewRocket, LLC. All Rights Reserved. Confidential.
+26
+Thank You

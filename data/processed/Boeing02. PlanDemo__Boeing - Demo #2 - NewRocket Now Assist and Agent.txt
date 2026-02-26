@@ -1,0 +1,48 @@
+NewRocket -  Boeing POCDemo #2
+Friday, 2 January 2026
+Today’s Agenda
+Skill: Interaction Sentiment Analysis
+Sentiment Analysis can help you gauge customer emotions, enabling you to provide more empathetic and compassionate customer experiences
+Skill = NR Interaction Sentiment Analysis
+Key Capabilities enabled for Boeing POC
+Use case 
+When an agent or requester completes a chat, the overall sentiment is evaluated, and the value Positive/Neutral/Negative is filled in the IMS Sentiment field of the interaction.
+The skill looks at the overall tone of the chat and does not necessarily look at the resolution of the interaction. 
+Skill: Sentiment Analysis - Positive
+Skill: Sentiment Analysis - Neutral
+Skill: Sentiment Analysis - Negative
+DEMOInteraction Sentiment Analysis(negative with no resolution)
+Skill: Incident Description Summary
+The skill Incident Description Summary is augmented from the OOTB Incident summary. 
+It is designed to trigger on incident creation, when an incident is created through a record producer and summarizes the Description only.
+Key Capabilities enabled for Boeing POC
+Use case 
+When a requester opens an incident through a record producer, currently all the answers get written with no formatting to the output, making it difficult for the agent to read through the actual issue. 
+The new incident description summarization skill takes the content of this "jumbled" data and summarizes while keeping the original answers in the description.
+Skill: Incident Description Summary
+The new skill summarizes the content of the data obtained through the record producer form
+The original data are still accessible to the agent
+DEMOIncident Description Summarization
+Phoebe – Additional features
+In this iteration of Phoebe, we have added made it more interactive, adding additional comments for the requester. We have also stopped it from interacting with Event Management incidents
+Additional Key Capabilities enabled for Boeing POC
+Use case #1 – Self-resolution for In-progress/on-hold Incidents
+When a requester enters any of the following statements:
+I fixed the issue myself/It's fixed
+No longer required/Cancel the incident
+Then Phoebe puts a follow-up in additional comments for the requester and resolves the incident
+Use case #2 – Incident was resolved but re-opened by requester 
+On incident state change from Resolved to In progress, Phoebe will:
+Analyze resolution notes, any additional comments added
+Engage with the requester, providing further help
+If the result of the conversation is deemed to be a new incident, Phoebe leaves the current incident resolved and puts a follow up indicating how to open a new incident
+If the result of the conversation is deemed to be the same issue as the current incident, Phoebe re-opens the incident in progress and assigned to its original assignee
+Phoebe: Self-resolution (State = In progress or On Hold)
+Phoebe: Re-opening -  same issue
+Phoebe:Re-opening Different issue
+DEMO: Phoebe – Incident Management
+Wrap Up
+This Photo by Unknown Author is licensed under CC BY-SA-NC
+Thank You
+The AI-first ServiceNow® Elite Partner
+October 22, 2025

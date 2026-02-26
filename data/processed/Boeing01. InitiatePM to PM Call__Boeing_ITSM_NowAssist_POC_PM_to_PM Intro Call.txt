@@ -1,0 +1,136 @@
+ITSM Now Assist POC Project
+ PM Introduction
+October 28, 2025
+Agenda
+Introductions
+Overview of Statement of Work (SOW)
+Stakeholders & Project Team
+Key Roles & Responsibilities
+Delivery Excellence/Project Methodology
+Project Tools 
+Communication & Meetings Planning
+Next Steps 
+Q/A
+CONFIDENTIAL
+Statement of Work (SOW) Overview – In Scope
+CONFIDENTIAL
+Stakeholders & Project Team 
+Boeing
+Project Sponsor (?)
+Project Manager
+SME's
+SN Platform Owner 
+SN Architect 
+Name - [Position], Project Role 
+NewRocket
+Lisa Brown – Area Delivery Director
+Yitbarek Redda – Project Manager
+Anusha 
+Pankaj Yadav – Solution Architect 
+Mylene Nadeau - Business Process Architect
+Ashish Kaushik – Engineer/Technical Consultant
+CONFIDENTIAL
+Key Roles and Responsibilities
+Boeing
+Identify stakeholders
+Complete Readiness Homework
+Prepare for Kick-off
+Prepare for Workshops
+Participate in Workshops
+Participate in Follow-up Sessions
+Review and Approve Stories
+Participate in weekly status
+Validate developed stories
+Validate design
+Plan, lead UAT
+Manage defect log
+Manage Release to (Pre) Production
+NewRocket
+Develop project schedule
+Lead Status calls
+Lead Steering Calls
+Manage budget
+Maintain RIDAC
+Manage and monitor project budget
+Lead workshops
+Create stories backlog
+Manage sprints
+Manage sprint ceremonies
+Resolve UAT issues
+Co-manage Release to (Pre) Production
+Resolve post Go-live issues
+CONFIDENTIAL
+Delivery Excellence Methodology
+ServiceNow NowCreate Methodology
+NewRocket best practices added where appropriate
+Project Tools
+Project Plan: To assist with timeline visualization and order of operations, your NewRocket Project Manager will be managing and maintaining a Gantt-style project plan to be reviewed weekly during the status call.
+RIDAC Log: Tracking Risks, Actions, Decisions, Actions, and Changes (RIDAC).
+Status Report: Used to run our weekly status calls and summarize the project to key stakeholders. This report will contain information such as; Overall Status, Risks and Issues, Development Overview, Timeline and Budget.
+Meeting Notes/Minutes: All meetings will be accompanied by meeting notes/minutes capturing action items and summary of discussion.
+Story & Blocker Review Calls:  Weekly working sessions will be scheduled to provide the Boeing team and NewRocket team to review story progress and work through questions.
+SCRUM Calls: If needed to aid in both team’s management of open action items, a series of SCRUM calls can be set up for 15 min each to review open action items.
+Communication & Meetings Planning
+Time zone(s) and working hours:  Eastern Time (ET) - UTC-4, 9:00 AM-2:00 PM 
+File sharing tools: Microsoft Teams / SharePoint
+Communication channels: Microsoft Teams / SharePoint
+Establish weekly Status Meeting cadence: Weekly basis. PMs, Functional Leads (optional) 
+Schedule weekly PM to PM meetings : Weekly basis. 
+Establish Steering Committee cadence (if necessary) : Monthly basis. Boeing Leadership, NR Leadership
+Identify Governance chain of command : same as 6
+Managing change: Robust internal process via formal change control process and will initiate if any additional scope is identified during executing the project
+Timeline Considerations
+SOW Timeline [8 weeks]    Start Date: Monday October 27, 2025 
+                                                       End Date: Friday, December 19, 2025 
+Client or Regulatory requirements: 
+Business drivers affecting timeline:  
+Onboarding process (steps and duration):
+NewRocket access to SN instance/portal:
+Kick-off meeting planning:  Tuesday November 4, 2025 1:30 PM – 2:30 PM [ET]
+Clone down schedule, upgrade considerations, etc.
+Company holidays
+Team PTO
+Blackout Dates
+Next Steps
+Complete Pre-flight checklist 
+Prepare for workshops
+Touchbase –Friday October 31, 2025
+Kickoff 
+WS1 Friday October 7
+Ws2, 
+Questions?
+Outcomes & Success Criteria
+Success Criteria
+Solution Quality
+Raving Fans
+Building trust through transparency and open communication
+Exceed expectations via good strategic partnering
+CSAT Score of “Excellent”
+Meeting the expected business outcomes
+Based on guiding principles
+NewRocket looks at success along four dimensions.
+On-time and On-budget
+Partnership
+Proactive use of Project Change Orders (PCOs)
+Proactive use of Risks, Issues, Actions, Decisions, and Change Orders (RIDAC)
+Zipper relationship
+At NewRocket, we believe every client deserves an extraordinary delivery experience. Every project and client is unique. Our Project Managers and Crew Members are some of the best in the industry and ready to make sure you receive an extraordinary experience!
+To ensure you are a raving fan, we will:
+Build a trusted relationship with you acting as a strategic partner
+Follow a consistent delivery methodology
+Promote open and honest two-way communication 
+Check in regularly and ask, “How are we doing?”
+Act on feedback 
+Measure project success using our Project Pulse Check Process and ServiceNow’s CSAT Survey process
+Hold lessons learned and continuously improve based on feedback
+Outcomes & Success Criteria
+Client Satisfaction
+At NewRocket we measure Client Satisfaction using the following two methods:
+Pulse Check Survey Process
+At specific checkpoints in the project the NewRocket Project Manager will initiate a Pulse Check Survey to measure client satisfaction. An email is sent with one question and a comments section. Your participation is critical to our success and let’s our crew know what is going well and areas we may need to work on. Proactively addressing issues and open communication will ensure a successful project!
+ServiceNow CSAT Survey 
+During the delivery phase the Project Manager will review if the project meets the ServiceNow Deployment Registration Requirements. If the project is determined a good fit, a deployment will be created and completed during the delivery phase. A part of the deployment ServiceNow sends out a Client satisfaction (CSAT) survey on behalf of the partner to measure success and gather feedback.
+The ratings and feedback received is very important to NewRocket for continuous improvement and being able to pro actively address issues while a project is in flight. Our Project Crew are dedicated to earning a rating of “Excellent” and Client Participation is important.
+If there are ever ANY issues during the project that would keep you from rating NewRocket as “Excellent”, please reach out to your project manager or account executive to discuss the issue and we will make it right!
+Expectations – Solution Architect
+Expectations – Business Process Analyst

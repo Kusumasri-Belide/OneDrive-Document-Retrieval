@@ -1,0 +1,3 @@
+Usage and Adoption
+Skill Detail > Chat summarization
+Custom Skills > Sentiment analysis on interaction

@@ -1,0 +1,47 @@
+
+--- Sheet: Sheet1 ---
+	What are we demonstrating	Steps	Outcome/issue		Note from demo #1
+	Prep	Open 2 windows, 1 in private
+1. Impersonate Joseph Freeman  - 343318 go to SOW and make yourself available in Inbox
+2. Impersonate Jean-Christophe Billault - 2205123 and go to SP			
+1	Chat summary/IMS sentiment	J-C, search for Email calendar not synching, it should bring you to KB0024722	Chat summary does not always appear		
+		J-C, request  Live chat	IMS sentiment is always neutral during this test		
+		Joe, Accept the chat			
+		J-C and Joe: Have a negative conversation, J-C is upset that he was force to upgrade his Pixel and now it's not working		[03:02] Virtual Agent - virtual.agent: Please stand by while I connect you to a live agent.
+[03:02] System: Joseph Freeman - 3431318 has joined.
+[03:02] Joseph Freeman - 3431318: Thank you for contacting Boeing Other IT Related support.  How may I assist you?
+[03:02] Joseph Freeman - 3431318: Hello, how can I help you today
+[03:03] Jean-Christophe Billault - 2205123: This is ridiculous, my camera is still not working after I did all this work. you have been ignoring me for the past 3 hours. I'm very upset
+[03:03] Joseph Freeman - 3431318: I can help you. Is there an error message?
+[03:04] Jean-Christophe Billault - 2205123: No error message, I followed the instructions even though I didn't have an error
+[03:04] Jean-Christophe Billault - 2205123: The screen is just blank
+[03:04] Joseph Freeman - 3431318: Have you rebooted your system?
+[03:05] Jean-Christophe Billault - 2205123: Yes. I want this escalated right now, I have an important teams meeting where I have to present. Camera needs to be ON!!!1
+[03:05] Joseph Freeman - 3431318: Sure. Can you see if the privacy toggle is blocking the camera
+[03:05] Jean-Christophe Billault - 2205123: oh that's it. OK bye
+[03:06] System: Joseph Freeman - 3431318 has ended the conversation.
+[03:06] System: The conversation has ended
+[03:06] System: You can download the transcript of this conversation
+	1. Add positive and neutral interaction and show the results
+		Joe: Complete			
+		As Demo'er: show the Chat summary and IMS Sentiment			
+2	Form summary in Description field	J-C, search for Email calendar not synching, it should bring you to KB0024722		Describe Issue: I upgraded the Android OS on my Pixel and I'm no longer getting my Boeing emails and my calendar is not showing my Boeing events	
+		J-C, select Create online ticket		Troubleshooting performed: I performed all the steps in the KB0024722 except step 9 because I don't know how to reapply ActiveSync profile. I don't see AE - ActiveSync - NorthEast in the profiles	
+		J-C, fills out record producer form		Not getting email after phone upgrade	
+		Joe, finds the incident (stretch this out, it may take a few seconds)			
+		Demo'er: show the Description summary, configured the incident summary, the trigger point is the incident creation only,  improve agent experience 			Comment on what was done to the OOTB skill
+3	Phoebe - Closure by requester	J-C, opens the incident in SP and states that the incident is fixed			
+		Demo'er: show that Phoebe wrote a follow-up and resolved the incident. note the resolution notes			Comment on resolution code
+4	Phoebe - Neutral	J-C, once incident is resolved, enter a neutral message like "Thanks"			
+		Demo'er: show that incident is not re-opened			
+5	Phoebe - Re-opening same issue	J-C, in the same incident types: my issue is happening again			
+		Demo'er: show that incident is re-opened and Phoebe is asking for more details			
+6	Phoebe - Re-opening other issue	J-C, in the same incident, resolves it			
+		J-C, in the same incident, types "I now have problems with my headphones, they don't seem to produce any sounds"			
+		Demo'er: show that Phoebe wrote a follow-up stating to open a new incident and current incident stays resolved			
+	Show Now assist Usage	ServiceNow Assist Overview			
+	Turn off Phoebe for Even Management				
+	ServiceNow Assist Overview				
+	Elara show side by side	KB0040391 v0.01 | Knowledge | Global Service Engagement Platform	Elara created KB from the incident		
+		KB0011084 v12.0 | Knowledge | Global Service Engagement Platform	original KB associated to incidente		
+		INC7236418	Incident		

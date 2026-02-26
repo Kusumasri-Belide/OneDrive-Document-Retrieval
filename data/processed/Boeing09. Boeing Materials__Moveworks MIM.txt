@@ -1,0 +1,76 @@
+Moveworks MIM Agent
+11/10/2025
+Agenda
+MIM Moveworks Plugin – REST API calls to SN Table API
+Now Assist Virtual Agent Bot – Add Comment to Incident
+Integration Moveworks and NAVA API – Architectural challenges and possible solutions.
+2
+MIM Moveworks Plugin
+3
+Find By Date Plugin
+Finds MI by date range
+What didn’t work:
+major_incident_state=accepted^sys_created=ONjavascript:gs.dateGenerate('{{open_date}}','00:00:00')
+4
+Summarize Incident Plugin
+Compound action utilizes moveworks inbuilt LLM action to summarize INC details.
+Moveworks In-Built LLM Action.
+Can be used for summary, classification, sentiment analysis, etc.
+5
+Add Comment to Incident VA Bot
+Using Now Assist Capabilites to take input from User
+Using a Flow Action to Add comment to incident
+6
+Example
+Add Comment to Incident
+7
+Example Result
+8
+Integration Moveworks and SN VA API
+Moveworks Chat Client invokes the ServiceNow Virtual Agent API
+Why merely using Moveworks Connectors doesn’t work:
+Virtual Agent Bot Interconnect API is asynchronous:
+When we send a HTTP POST request, the API responds with the success/failure status. Moveworks Action completes here upon receiving this result.
+But the actual VA response is processed later and sent to separate configured outbound REST endpoint.
+9
+Moveworks Listeners (Webhooks)
+10
+ServiceNow
+Ask Boeing (Moveworks)
+Other Systems
+SN Data
+KB
+INC, RITM, 
+Cat Item 
+User
+AI Search
+Moveworks indexed Data
+Data
+Catalog Items
+Now Assist
+Moveworks Plugin’s
+ITSM Now Assist Skills
+Virtual Agent
+LLM
+CMDB Now Assist Skills
+LLM
+Ask Boeing
+Custom Agents
+SN Live Agent
+BCAI
+Agent Integration
+SN Virtual Agent API
+Chat
+Fulfiller Channels
+End User Channels
+LLM
+Workspace
+Classic UI
+Now Assist
+My Boeing
+Teams
+GSEP Portal
+POC Evaluation
+In Development
+In Production
+11

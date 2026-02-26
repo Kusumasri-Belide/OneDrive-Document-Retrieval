@@ -1,0 +1,73 @@
+Value Realization
+Workshop #2
+November 10, 2025
+Agenda
+Review Boeing Current Mode of Operation regarding dashboards 
+What's already configured
+How do they align with AI agents and skills
+Provide KPI that need to be configured 
+Next steps
+Current State Assessment
+ITSM Assessment Areas and Maturity
+End User Experience (Portal/ Self Service)
+Service Catalog
+Knowledge Management
+Enterprise Helpdesk
+Level
+Level
+Level
+Level
+Disparate portals exist, leading to fragmented user experience and disconnected fulfillment.  
+Built on Service Portal, not yet on Employee Center. 
+End user experience is very fragmented, static and not cohesive. 
+Service Catalog Management process oversight is mature. 
+User experience and consumption of the catalog items for self-service/ support requests can be matured. 
+ Boeing’s Knowledge Management is highly mature and formalized
+There are around 11,000 IT knowledge articles in the system, indicating a vast repository that covers a wide array of topics – a strength for self-service and support
+EHD supports multiple channels
+Improvements are limited by fulfiller UI being outdated
+Data extraction to support performance measures are manual and are performed using  disparate systems. 
+2
+4
+2
+4/1
+Incident and Major Incident Management
+Change Management
+Problem Management
+Intake and Release Management
+Level
+Boeing supports multi-channel incident intake 
+While the overarching incident process is consistent, each support team has the bandwidth to personalize procedures
+MIM is  at a higher maturity
+Practice is well-defined with three change types: Standard (pre-approved), Normal, and Emergency.
+Changes are perceived to be the major cause of incidents
+Module is significantly customized to support process
+Major problem management is mature, featuring structured workflows, evidence-based RCA, and clear accountability
+The enterprise problem management process is inconsistent and team-driven, with low overall adoption of the problem module
+Boeing’s release management is thorough.
+Release deployments are managed as formal events, often done after-hours or in maintenance windows.
+The team is actively working on DPR, to enhance integration with ADO
+Level
+Level
+Level
+2
+2
+3
+3/ 3.5
+Next Steps
+Boeing assessment
+Business Goals Now Assist Capability Primary Outcome
+Boeing assessment (cont'd)
+Business Goals Now Assist Capability Primary Outcome
+Next Steps
+Coordinated instance and access plan
+Upcoming Workshops
+Demoing Phoebe and Elara (NR Agents)
+Integrations Evaluation and Recommendations 
+Stories refinement and sign off
+Boeing AI Roadmap Maturation (schedule later)
+Create outstanding stories based on approved configuration
+Review stories and provide feedback or acceptance of stories
+Configuration can begin
+REFERENCE
+Now Assist Value Realization - June 25th, 2025 - Platform Analytics Academy

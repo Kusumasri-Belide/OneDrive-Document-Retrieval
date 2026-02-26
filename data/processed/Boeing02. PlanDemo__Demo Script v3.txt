@@ -1,0 +1,63 @@
+INTRODUCE AGENT & REQUESTER
+SETUP Agent
+1. In private window, impersonate Joseph Freeman - 3431318
+2. Navigate to Service Operation Workspace
+3. Select Inbox on the left and put status as available and wait 
+SETUP Requester
+In another private window, impersonate user  Jean-Christophe Billault - 2205123
+Connect to Service Portal
+2. Navigate to KB0018152 Print - Xerox - Paper Jams - General Printer Jam Troubleshooting
+Select Live Chat with a help desk agent
+Chat Summarization skill – overlaps with the Elara use case – merge outlines
+End user starts a chat from a KB and interacts with agent.
+As Agent accept Chat
+Using both windows, perform a chat between requester and agent
+As the agent type /summarize in the chat window
+Expected result: a summary of the chat up to this point is displayed
+Stop at this point to show the Summary
+As Agent, end the chat above
+Expected result: A summary of the chat is displayed "Chat Summary" field of interaction
+Stop at this point to show the Summary in Chat
+As Agent, close the interaction
+As Agent, stay in the interaction form and select button Create incident
+Expected result: In the Create New Incident form, the content of the interaction's chat summary is copied over to the incident Description
+Save the Incident and note the number.
+Stop to show the Summary on Incident ticket
+Elara – Knowledge Agent 
+[Use case 1 – Overlap with Chat Summarization] End user starts a chat from a KB and interacts with agent. Agent opens an Incident and closes Chat. Chat summary is appropriately generated.
+Open the Incident created while showing Chat Summary
+[Use case 2] End user starts an Incident from a KB and Agent uses “Create Knowledge Gap” – no new article created when KB ID field is filled in. Elara doesn’t do anything if the incident has a KB ID (even when KFT created). If the KB ID is empty then Elara should create a KB 
+Agent opens an existing Incident, with NO KB ID entry. INC7602641
+Agent selects “Report Knowledge Gap” KFT0001086
+Open KFT
+Wait for 2-3 minutes for update
+Should be able to show a new KB was created, waiting to start publish workflow.
+Agent opens another existing Incident, INC7602649, with KB ID entered.
+KB0018152 v10.0
+Agent selects “Report Knowledge Gap”
+Open the KFT, KFT0001087
+Wait for 2-3 minutes to be sure any updates are processed.
+Should be able to show NO new KB was created in KB All Articles list (add created/created by)
+Phoebe – Incident Agent 
+Note – may need multiple ‘staged’ incidents set up to get through this part.
+Open something unrelated to:
+KB Print - Xerox - Roaming Print – FAQs, KB0018159 Printer (CI) 99-A59 Xerox_Copy Room Colour
+The end user pulls up a KB and opens an Incident (No chat).
+Describe enough that above KB would be suggested
+User must state whether the KB does or does not fix their issue.
+If yes, then Phoebe will resolve the issue. 
+If no, Phoebe should assign the incident to someone.
+Stop and review the state of the incident
+The end user then reopens the Incident.
+Type something in that doesn’t match the short description.
+Phoebe should ask if you want to open a new incident.
+Re-open another closed incident (staged).
+Type something in additional comments as end user that matches current incident closely
+Phoebe shouldn’t react to this.
+Story A/C: (note that demo will not hit all A/C or might only show the outcome of some A/C as the system is quite slow at times)
+Rules are running in the background – using KB ID they populate fields on the Incident. [Disable the rule that goes and gets data from KB  if can find them]
+Sentiment Analysis and Trend 
+Show existing sentiment and trend:
+End user is angry
+End user is happy
+End user sentiment improves following resolution

@@ -1,0 +1,66 @@
+NewRocket -  Boeing POC
+Tuesday, 4 November, 2025
+Today’s Agenda
+Your first skill: Chat Summarization
+Boeing process can start with an Agent – User/Customer chat. NewRocket is implementing the following use cases to enhance the chat experience, saving the Agent time and clicks!
+Key Capabilities enabled for Boeing POC
+Use case #1
+When an Agent types /summarize in the chat window, a summary of the chat is generated and shown to the Agent
+Use case #2
+When an Agent closes the chat, a summary of the chat is copied to the Chat summary field of the interaction
+Use case #3
+When an Agent accesses an interaction containing a chat summary in the Service Operation Workspace, using the button "Create incident“ the chat summary contained in the interaction is copied to the Description Field of the incident with the title "Chat Summary:" preceding the chat
+Acceptance Criteria for Chat Summarization Use Cases
+I know this is complete when:
+DEMO: Chat Summarization
+Meet Elara – Boeing’s New Knowledge Management Orchestrator
+As the intelligence behind Knowledge Management, Elara can automate creation, enrichment, governance, and archival integrating seamlessly with ServiceNow to maintain a dynamic, reliable knowledge base across the enterprise.
+Key Capabilities enabled for Boeing POC
+Use case #1 – Overlap with Chat Summarization Skill
+End user starts a chat from a KB, and interacts with agent. 
+Agent opens an Incident and closes Chat. 
+Use case #2
+End user starts an Incident from a KB and Agent uses “Create Knowledge Gap”.
+No new article is created when KB ID already populated.
+Use case #3
+End user starts an Incident from a KB and Agent uses “Create Knowledge Gap” 
+A new article created if no KB ID populated. 
+NewRocket has one client reporting 70 articles per month being created; 50 get approved.
+Elara’s Business Value and Impact
+Driving measurable efficiency and trust through autonomous knowledge orchestration.
+Autonomous Knowledge Creation
+Automatically generates high-quality knowledge articles from resolved incidents, ensuring valuable solutions are captured without manual effort.
+Intelligent Content Enrichment
+Augments internal knowledge by automatically researching and incorporating relevant information from trusted external web sources.
+AI-Powered Content Governance
+Enforces brand voice, tone, and style consistency across all knowledge articles, and uses AI to suggest structural improvements for better readability.
+Acceptance Criteria for Elara Use Cases
+I know this is complete when:
+DEMO: Elara – Knowledge Management
+Meet Phoebe – Boeing’s New IT Service Orchestrator
+Phoebe is the core agent leading a dedicated team of specialized helper agents for IT Service Management, providing instant, automated resolutions that transform the user experience and free up valuable support capacity.
+Key Capabilities enabled for Boeing POC
+Use case #1 – New Incident
+On newly opened incidents, Phoebe suggests relevant knowledge and fills the KB field, therefore filling fields into the incident.
+Use case #2 – Incident was resolved but re-opened by requester 
+On incident state change from Resolved to In progress, Phoebe will:
+Analyze resolution notes, any additional comments added
+Engage with the requester, providing further help
+If the result of the conversation is deemed to be a new incident, Phoebe will close the current incident and open a new one automatically
+If the result of the conversation is deemed to be the same issue as the current incident, Phoebe leaves the incident in progress and assigned to its original assignee
+Phoebe’s Business Value and Impact
+Driving faster resolutions and smarter service through autonomous IT support.
+Improve First-Contact Resolution
+Increase first-contact resolution rates by empowering agents with the right information and automating repetitive tasks.
+Reduce Ticket Volume
+Proactively deflect inbound incidents and service requests by providing instant, automated resolutions through self-service channels.
+Lower IT Support Costs
+Reduce cost per ticket and lighten the load on service desk staff by automating Tier 1 and Tier 2 support activities.
+Acceptance Criteria for Elara Use Cases
+I know this is complete when:
+DEMO: Phoebe – Incident Management
+Wrap Up
+This Photo by Unknown Author is licensed under CC BY-SA-NC
+Thank You
+The AI-first ServiceNow® Elite Partner
+October 22, 2025

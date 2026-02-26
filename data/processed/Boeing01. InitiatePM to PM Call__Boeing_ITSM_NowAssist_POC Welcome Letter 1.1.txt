@@ -1,0 +1,43 @@
+Welcome to NewRocket!
+Hi Team TierPoint,
+Welcome to NewRocket!
+We are delighted you chose NewRocket as your trusted partner! With our deep ServiceNow platform expertise and an agile model that is experience-centric, we can deliver outcomes faster to maximize your investments at scale. Our services and capabilities are aligned to meet your objectives; by designing systems that are easy to use and deliver extraordinary experiences for employees and customers. We look forward to working together on your success. 
+In preparation for our collective success, we have prepared a detailed list of some of the pre-requisites we ask our client to begin working on prior to ensure Great Launch readiness.
+Project success criteria - Define your KPI’s so that Project success criteria align with your business to ensure that we have specific, measurable outcomes that can act as the ‘north star’ for your implementation.
+Publish your KPIs and target outcomes as part of the Project Charter
+ServiceNow Training - The core project team and the process / service owners should look to complete at least the on-demand Welcome to ServiceNow - ServiceNow University training while the process / service owners should look to complete training specific to CMDB (Configuration Management Database (CMDB) Fundamentals On Demand - ServiceNow University) , Discovery ( Discovery Fundamentals On Demand - ServiceNow University) and Service Mapping (Service Mapping Fundamentals On Demand - ServiceNow University). 
+Customer Success –  ServiceNow Impact  (ServiceNow Impact - Customer Success)  is a customer success product that helps you achieve success your way with value and adoption resources, tailored expertise, health tools, and 24/7 support. While the site requires signing-up for the services, the page for freely available resources is located at (https://www.servicenow.com/resources.html ).
+Workshop Preparation – Workshops are vital, they align the technology with the business and output both the requirements and design of the solution. It is important to run internal meetings to prepare for these joint workshops and to ensure the solution is aligned with your processes. Your partnership with NewRocket will help keep you within best practice – for both industry and the platform – do not be surprised to hear a polite ‘no’ and a gentle push towards OOTB (out of the box).
+Sales Alignment – At NewRocket we run a formal handover between sales and delivery, this facilitates the correct understanding of expectations. We recommend a similar activity for you so that the project team is aligned with the team responsible for selecting the platform. Additionally, involving your Advisory team from scoping to delivery will aid in these outcomes.
+Project Management – Partnership and alignment across the client team, the client Project Manager and the NewRocket Project Manager will set us up for success on scope, timeline, and budget. This includes regular check-ins and co-ordinations with the NewRocket project team.
+User Acceptance Testing (UAT) – UAT for this project is going to consist of evaluating the resulting discovery work that populated CMDB data over the duration of the delivery phase. NewRocket's remit through UAT is one of support, remediation, and enhancement. NewRocket's preferred method is to use the ServiceNow
+Agile module in TierPoint’s Production instance to capture stories and track UAT. To support a smooth UAT, having the same resources testing the processes should be the same as the resources defining them in the workshops as the story user acceptance criteria make great test cases.
+Know Your Risks – It is important to work with the NewRocket project manager to log initial risks such as: change freezes, other projects, resource alignment, holidays, and timelines that need to be incorporated into the project.
+ Communication
+Meeting Notes: All workshops will be recorded and accompanied by a list of action items. A best practice recommendation is for all meetings to be scheduled / recorded by a single point of contact (NewRocket or TierPoint)
+Executive Summary: Used to run our weekly status calls and summarize the project to key stakeholders. This report will contain information such as: Overall Status, Risks and Issues, Development Overview, Timeline and Budget.
+Burn Report: Delivered weekly to show budget usage.
+RIDAC Log: Tracking Risks, Issues, Decisions, Actions and Change Requests.
+Project Plan: To assist with timeline visualization and order of operations, your NewRocket Project Manager will be managing and maintaining a Gantt-style project plan to be reviewed weekly during the status call.
+Weekly Status Calls: Weekly call to review the weekly project control documents (project plan, burn report, RIDAC log) with the core TierPoint team.
+SCRUM Calls: If needed to aid in both team’s management of open action items, a series of SCRUM calls can be set up for 15 min each to review open action items.
+Preparing for Workshops
+Right resources:
+Decision Maker: Someone to make final decision for TierPoint team.
+End User Representation: Assists with continuity between current processes and procedures and future state discussions.
+SN Administrator: To better understand how the application will be used by end users and customers.
+TierPoint workshop participants and delegates to be identified. Workshops will only be valuable if process owners are in place. The minimum roles to be assigned include:
+Business Sponsor
+Process Owner
+Process Manager/Subject Matter Expert (SME)
+Current Application Technical SME
+ServiceNow Admin/Solution Architect
+Project Manager
+TierPoint Business Analyst (responsible for documenting decisions internal to TierPoint, creating or updating current state process documentation and following up internally on action items).
+Pre-Requisite Homework
+TierPoint Contact list or Stakeholder Registry
+Gather and share current process diagrams, data flows and relevant policies and procedures, if any.
+Complete the TierPoint Preflight checklist
+Initial Workshops to be Scheduled
+Workshop agendas and sequence to be determined
+© 2022 NewRocket, Inc.	        		             Proprietary and Confidential              	      	               	         Page 42 of 43
