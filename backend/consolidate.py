@@ -89,8 +89,4 @@ if __name__ == "__main__":
     if result:
         print(f"\nConsolidated document created successfully: {result}")
     else:
-<<<<<<< HEAD
         print("\nConsolidation failed.")
-=======
-        print("\nConsolidation failed.")
->>>>>>> 8d5ee6e1c299e7ec4faba52e139b3a328050d9b4
